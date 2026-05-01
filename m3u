@@ -20,6 +20,55 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="TV aberta", Record TV
+https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
+
+#EXTINF:-1 group-title="TV aberta", Record TV Rio
+https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
+
+#EXTINF:-1 group-title="TV aberta", SBT SP
+https://aovivo.maissbt.com/channel_720.m3u8
+
+#EXTINF:-1 group-title="TV aberta", SBT Interior
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 group-title="TV aberta", TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 group-title="TV aberta", TV CULTURAL HD
+https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="TV aberta", TV Tropical (Rede Record RN)
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+
+#EXTINF:-1 group-title="TV aberta", Record TV Goiás
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV aberta", Reviva TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV aberta", Tela Brasil
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 group-title="TV aberta", Rede Brasileira de TV
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV aberta", TV A Crítica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Filmes", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
@@ -557,3 +606,247 @@ https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/multishow.m3u8
 
 #EXTINF:-1 group-title="TV paga", TNT Séries
 https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tntseries.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TV paga", Combate
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/combate.m3u8
+
+#EXTINF:-1 group-title="TV paga", COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Documentários", NATURE TIME
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Animais", NZTV
+https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animais",  WILDEARTH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 group-title="Animais", PETLOVERS TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animais", TV MAIS PET
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Documentários", TV Atividade 
+https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", Conectv 
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Automóveis", DRIVE CHANNEL TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+
+#EXTINF:-1 group-title="Automóveis", RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Automóveis", NASCAR Channel
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
+
+#EXTINF:-1 group-title="Automóveis", Red Bull TV Motorsport
+https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Animes", Anime TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
+
+#EXTINF:-1 group-title="Animes", Otaku
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+
+#EXTINF:-1 group-title="Animes", KANADE
+https://static.kanade.cl/hls/kanade.m3u8
+
+#EXTINF:-1 group-title="Animes", Jetix
+https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
+
+#EXTINF:-1 group-title="Animes", geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Desenhos", F.Kids
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", Animestation
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", Ministério Infantil 
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", NBX TV KIDS
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", MR BEAN 2
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", KANUCA TV BRASIL
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="paisagens", Rede Mundo TV
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+
+
+#EXTINF:-1 group-title="paisagens", TV Gazeta
+https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
+
+#EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
+https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Culinárias", COZINHANDO TV
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/10.m3u8
+
+#EXTINF:-1 group-title="Culinárias", RECEITAS FAST
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 group-title="Culinárias", TASTEMADE BRASIL
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="Culinárias", MASTERCHEF BRASIL
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="Culinárias", TRAVEL AND FOOD
+https://pop.uniquetv.com.br/travelfood/video.m3u8
+
+#EXTINF:-1 group-title="Culinárias", CANAL BEM MELHOR
+https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="clipes", Kpop TV Live
+https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", KPOP TV PLAY
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
+
+#EXTINF:-1 group-title="clipes", +MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="clipes", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+#EXTINF:-1 group-title="clipes", TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
+#EXTINF:-1 group-title="clipes" M20 TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", RETRO MUSIC TELEVISION
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", NOW 90S & 00S
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", NOW 70S
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 group-title="clipes", KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", vintage TV
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", 4FUN TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 group-title="clipes", PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", TV PARADISE
+https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
+
+#EXTINF:-1 group-title="clipes", TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Encontro Marcado
+tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1"
+group-title="Filmes | romance",Encontro Marcado 1998 
+https://teleonline.org/wp-content/plugins/configuracion-tv/assets/videos/no-disponible-teleonline.mp4
+
+
+
+
+
