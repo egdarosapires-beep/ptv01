@@ -568,3 +568,99 @@ https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/multishow.m3u8
 #EXTINF:-1 group-title="TV paga", TNT Séries
 https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tntseries.m3u8
 
+#EXTINF:-1 group-title="Variedades", Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://i.postimg.cc/x8vJXf4R/image.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD²
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.postimg.cc/G3sxJZx5/image.png" group-title="FILMES E SÉRIES",CINEMAX SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/1855.ts
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="https://i.postimg.cc/G3sxJZx5/image.png" group-title="FILMES E SÉRIES",CINEMAX SD²
+
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC ACTION 4K" tvg-logo="https://i.postimg.cc/jCYsNX1g/image.png" group-title="CANAIS 4k",TC ACTION 4K
+http://ppwrz.sbs:80/silmar12899/silmar128999/316.ts
+
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC PIPOCA 4K" tvg-logo="https://i.postimg.cc/4NbCMTyy/image.png" group-title="CANAIS 4k",TC PIPOCA 4K
+http://ppwrz.sbs:80/silmar12899/silmar128999/1075.ts
+
+
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="https://i.postimg.cc/jCYsNX1g/image.png" group-title="TELECINE",TELECINE ACTION SD²
+http://ppwrz.sbs:80/silmar12899/silmar128999/231.ts
+
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.postimg.cc/c15R7K0B/image.png" group-title="TELECINE",TELECINE CULT SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/235.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://i.postimg.cc/c15R7K0B/image.png" group-title="TELECINE",TELECINE CULT SD²
+http://ppwrz.sbs:80/silmar12899/silmar128999/226.ts
+
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.postimg.cc/8CsM9NpV/image.png" group-title="TELECINE",TELECINE FUN SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/824.ts
+
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.postimg.cc/4NbCMTyy/image.png" group-title="TELECINE",TELECINE PIPOCA SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/1007.ts
+
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.postimg.cc/SKSvHX5t/image.png" group-title="TELECINE",TELECINE PREMIUM SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/850.ts
+
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.postimg.cc/05WXQjSS/image.png" group-title="TELECINE",TELECINE TOUCH SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/935.ts
+
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://i.postimg.cc/bv4cW7DB/image.png" group-title="FILMES E SÉRIES",SPACE SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/320.ts
+
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://i.postimg.cc/bv4cW7DB/image.png" group-title="FILMES E SÉRIES",SPACE SD
+http://ppwrz.sbs:80/silmar12899/silmar128999/320.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Encontro Marcado
+tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1"
+group-title="Filmes | romance",Encontro Marcado 1998 
+https://teleonline.org/wp-content/plugins/configuracion-tv/assets/videos/no-disponible-teleonline.mp4
+
+
