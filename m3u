@@ -20,19 +20,6 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Filmes", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
@@ -109,14 +96,8 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", TV ALIANÇA
 https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", TV Channel Network
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", TV Cidade 10
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", TV Diversidade
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8
@@ -130,8 +111,9 @@ https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1936833837.m3u
 #EXTINF:-1 group-title="Filmes", ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", TV EXPLOSÃO FM
-https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
+
+
+
 
 
 
@@ -174,26 +156,14 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 #EXTINF:-1 group-title="Filmes", Rakuten TV
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 
-#EXTINF:-1 group-title="Filmes", TVES
-https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", TV MAIS BRASIL
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", Web Tv Clássicos
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", MIAMI VICE
-https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", On Tv
-https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
 
 #EXTINF:-1 group-title="Filmes", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
@@ -204,6 +174,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", 1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u8
 
+#EXTINF:-1 group-title="Filmes", TV Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 
 
 
@@ -211,7 +183,8 @@ https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u
 
 
 
-
+#EXTINF:-1 group-title="Variedades", TV EXPLOSÃO FM
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
@@ -282,6 +255,8 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Christmas TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 
 
@@ -292,7 +267,8 @@ https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Variedades", On Tv
+https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV DIGITAL BIRIGUI
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
@@ -503,11 +479,17 @@ https://unotvstreaming.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Variedades", TV JAPÃO
 https://pop.uniquetv.com.br/tvjapao/video.m3u8
 
+#EXTINF:-1 group-title="Variedades", Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
 #EXTINF:-1 group-title="Variedades", Tv Alpha
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 
 #EXTINF:-1 group-title="Variedades", Tv Vargem 
 https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TVES
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV Teen Net 
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -515,7 +497,15 @@ https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", ORTVWEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", TV MAIS BRASIL
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="Series", MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 
 
 
@@ -567,100 +557,3 @@ https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/multishow.m3u8
 
 #EXTINF:-1 group-title="TV paga", TNT Séries
 https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tntseries.m3u8
-
-#EXTINF:-1 group-title="Variedades", Loading TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://i.postimg.cc/x8vJXf4R/image.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD²
-
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.postimg.cc/G3sxJZx5/image.png" group-title="FILMES E SÉRIES",CINEMAX SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/1855.ts
-
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="https://i.postimg.cc/G3sxJZx5/image.png" group-title="FILMES E SÉRIES",CINEMAX SD²
-
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC ACTION 4K" tvg-logo="https://i.postimg.cc/jCYsNX1g/image.png" group-title="CANAIS 4k",TC ACTION 4K
-http://ppwrz.sbs:80/silmar12899/silmar128999/316.ts
-
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC PIPOCA 4K" tvg-logo="https://i.postimg.cc/4NbCMTyy/image.png" group-title="CANAIS 4k",TC PIPOCA 4K
-http://ppwrz.sbs:80/silmar12899/silmar128999/1075.ts
-
-
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="https://i.postimg.cc/jCYsNX1g/image.png" group-title="TELECINE",TELECINE ACTION SD²
-http://ppwrz.sbs:80/silmar12899/silmar128999/231.ts
-
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.postimg.cc/c15R7K0B/image.png" group-title="TELECINE",TELECINE CULT SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/235.ts
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://i.postimg.cc/c15R7K0B/image.png" group-title="TELECINE",TELECINE CULT SD²
-http://ppwrz.sbs:80/silmar12899/silmar128999/226.ts
-
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.postimg.cc/8CsM9NpV/image.png" group-title="TELECINE",TELECINE FUN SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/824.ts
-
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.postimg.cc/4NbCMTyy/image.png" group-title="TELECINE",TELECINE PIPOCA SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/1007.ts
-
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.postimg.cc/SKSvHX5t/image.png" group-title="TELECINE",TELECINE PREMIUM SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/850.ts
-
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.postimg.cc/05WXQjSS/image.png" group-title="TELECINE",TELECINE TOUCH SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/935.ts
-
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://i.postimg.cc/bv4cW7DB/image.png" group-title="FILMES E SÉRIES",SPACE SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/320.ts
-
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://i.postimg.cc/bv4cW7DB/image.png" group-title="FILMES E SÉRIES",SPACE SD
-http://ppwrz.sbs:80/silmar12899/silmar128999/320.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="Encontro Marcado
-tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1"
-group-title="Filmes | romance",Encontro Marcado 1998 
-https://teleonline.org/wp-content/plugins/configuracion-tv/assets/videos/no-disponible-teleonline.mp4
-
-
