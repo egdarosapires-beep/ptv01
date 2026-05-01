@@ -25,49 +25,6 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="TV aberta", Record TV
-https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
-
-#EXTINF:-1 group-title="TV aberta", Record TV Rio
-https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
-
-#EXTINF:-1 group-title="TV aberta", SBT SP
-https://aovivo.maissbt.com/channel_720.m3u8
-
-#EXTINF:-1 group-title="TV aberta", SBT Interior
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 group-title="TV aberta", TV CULTURAL HD
-https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", TV Tropical (Rede Record RN)
-https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", Record TV Goiás
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", Reviva TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", Tela Brasil
-https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", Rede Brasileira de TV
-https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", TV A Crítica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Filmes", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
@@ -101,6 +58,9 @@ https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", TV DIFUSÃO
 https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes", ADRENALINA PURA TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", TOP MIX TV
 https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
@@ -136,14 +96,10 @@ https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Filmes", clouding tv
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1085097025.m3u8
+
 
 #EXTINF:-1 group-title="Filmes", TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", TV ALIANÇA
-https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", TV Cidade 10
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
@@ -157,8 +113,7 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", TVR SUL
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1936833837.m3u8
 
-#EXTINF:-1 group-title="Filmes", ADRENALINA PURA TV
-https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
+
 
 
 
@@ -194,13 +149,8 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="Filmes", TV MIURA
 https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", Tv Carioca Internacional
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", Rakuten TV
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
@@ -211,38 +161,47 @@ https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", Web Tv Clássicos
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", MBC BRASIL TV
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", TV Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Filmes", 1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u8
 
-#EXTINF:-1 group-title="Filmes", TV Channel Network
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 group-title="Filmes", TV ALIANÇA
+https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes", BS-TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes", MBC BRASIL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Variedades", TV DIFUSÃO
+https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV EXPLOSÃO FM
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV DIFUSÃO
-https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV CIDADE NOVA
 https://stmv1.srvif.com/tvcn/tvcn/playlist.m3u8
@@ -253,23 +212,17 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 group-title="Variedades", TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist_w1257985426.m3u8
 
-#EXTINF:-1 group-title="Variedades", Viva Web Tv
-https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8?hls_ctx=o83o7n19
-
-#EXTINF:-1 group-title="Variedades", SEVEN TV
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", Rede Ortega
 https://stmv8.samcast.com.br/guilhermehenrique2856/guilhermehenrique2856/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", rede brasil de televisão
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1394821115.m3u8
 
-#EXTINF:-1 group-title="Variedades", BLITS
-https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV NOVA MT LTDA
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV IMJC
+https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", Bons Tempos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
@@ -286,11 +239,11 @@ https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV PBC
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV IMJC
-https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8
+#EXTINF:-1 group-title="Variedades", TV Max 90
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", YEEAAH
-https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 group-title="Variedades", clouding tv
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1085097025.m3u8
 
 #EXTINF:-1 group-title="Variedades", tv Jovem Total
 https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8
@@ -298,53 +251,11 @@ https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV PRINCESA DO VALE
 https://stmv.jnbhost.com.br/tvprincesadovale/tvprincesadovale/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV Max 90
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", Christmas TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Variedades", On Tv
-https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV DIGITAL BIRIGUI
-https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV Marajoara 50.1
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV Marrecas
-https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Qtal Channel
-https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Tv Metropolitana Rio
-https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Web Tv Xtreme
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV ONE
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV História
-https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Wording de Televisão
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
@@ -355,11 +266,62 @@ https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV LatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 
+#EXTINF:-1 group-title="Variedades", rede qdm
+https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV NBT
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", NOVA BARREIROS WEB TV
+https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Tv Futuro
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Canal Plural
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Variedades", WTJ TV
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/wtjtvminas/wtjtvminas/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV TVR
+https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Qtal Channel
+https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Tv Metropolitana Rio
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Web Tv Xtreme
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV História
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV Portalweb
+https://stmv.webtvninjas.com.br/tvportalweb/tvportalweb/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Wording de Televisão
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+
 #EXTINF:-1 group-title="Variedades", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV Cinec
 https://video07.logicahost.com.br/tvcinec/tvcinec/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV DESCALVADO
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", awTV
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
@@ -367,11 +329,26 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", MJR
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", rede qdm
-https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+#EXTINF:-1 group-title="Variedades", Rede UTV Brasil
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV NBT
-https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades", REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", MBC BRASIL.TV
+https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV Clube
+https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+
+#EXTINF:-1 group-title="Variedades", Tv Vargem 
+https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Tv dunas
+https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", ORTVWEB
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", tv aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2142197292.m3u8
@@ -385,31 +362,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Acesso Brasil TV
 https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV TVR
-https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", RCTV
-https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV Portalweb
-https://stmv.webtvninjas.com.br/tvportalweb/tvportalweb/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Admiradores da 7ª Arte
-https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", WTJ TV
-https://cdn-tiva-video02-logicahost-com-br.smartbit.co/wtjtvminas/wtjtvminas/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Rede UTV Brasil
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Variedades", VRT Channel
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV POMPEIA
-https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", WEB TV CR
 https://stmv1.paineldevideo.com.br/teste/teste/chunklist_w278109473.m3u8
 
@@ -419,17 +371,11 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV LITORAL RN
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", FORA TÉDIO TV
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV BRASIL OESTE (Rede Brasil MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w536849581.m3u8
+#EXTINF:-1 group-title="Variedades", TV POMPEIA
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TVC OURINHOS
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", JUST FOR LAUGHS GAGS
-https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV GOITACÁ
 https://video01.brascast.com/david7639/david7639/playlist.m3u8
@@ -461,26 +407,11 @@ https://stmv3.voxtvhd.com.br/tvgamela/tvgamela/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", NOVA BARREIROS WEB TV
-https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Tv Futuro
-https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Canal Plural
-https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV NBN Live
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV AVENTURA
 https://stmv1.liveplushd.com.br/tvaventura/tvaventura/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", WEB Canal Blecaute TV
-https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", REDE SPTV
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", WEB TV IBT
 https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
@@ -489,23 +420,11 @@ https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Tvcei
 https://stmv1.voxplayer.com.br/smytv/smytv/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", Nossa TV
-https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TvM
 https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV DESCALVADO
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV Blue Brasil
-https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", MVERSO TV
 https://stmv7.voxtvhd.com.br/gvstudios/gvstudios/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Tv dunas
-https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", Tv Nilcera
 https://live20.bozztv.com/akamaissh101/ssh101/tvnilcera/playlist.m3u8
@@ -516,9 +435,6 @@ https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Canal Ricos
 https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV Clube
-https://streaming.cloudecast.com/hls/rederecon/index.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV CONECTADOS
 https://stmv4.voxtvhd.com.br/tvconectados/tvconectados/playlist.m3u8
 
@@ -528,34 +444,59 @@ https://unotvstreaming.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Variedades", TV JAPÃO
 https://pop.uniquetv.com.br/tvjapao/video.m3u8
 
-#EXTINF:-1 group-title="Variedades", Loading TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", Tv Alpha
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
-
-#EXTINF:-1 group-title="Variedades", Tv Vargem 
-https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TVES
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV Teen Net 
-https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", ORTVWEB
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV MAIS BRASIL
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", Tv Carioca Internacional
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Viva Web Tv
+https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8?hls_ctx=o83o7n19
+
+#EXTINF:-1 group-title="Variedades", SEVEN TV
+https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV BRASIL OESTE (Rede Brasil MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w536849581.m3u8
+
+#EXTINF:-1 group-title="Variedades", BLITS
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", On Tv
+https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV DIGITAL BIRIGUI
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV Marajoara 50.1
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Admiradores da 7ª Arte
+https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Variedades", Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Series", MIAMI VICE
-https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", RCTV
+https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
+#EXTINF:-1 group-title="Variedades", Nossa TV
+https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
 
 
 
@@ -607,122 +548,11 @@ https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/multishow.m3u8
 #EXTINF:-1 group-title="TV paga", TNT Séries
 https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tntseries.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="TV paga", Combate
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/combate.m3u8
-
-#EXTINF:-1 group-title="TV paga", COMBATV
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Documentários", NATURE TIME
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Animais", NZTV
-https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
-
-#EXTINF:-1 group-title="Animais",  WILDEARTH
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-
-#EXTINF:-1 group-title="Animais", PETLOVERS TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-
-#EXTINF:-1 group-title="Animais", TV MAIS PET
-https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Documentários", TV Atividade 
-https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentários", Conectv 
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Automóveis", DRIVE CHANNEL TV
-https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
-
-#EXTINF:-1 group-title="Automóveis", RACER BRASIL
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Automóveis", NASCAR Channel
-https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
-
-#EXTINF:-1 group-title="Automóveis", Red Bull TV Motorsport
-https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Animes", Anime TV
-https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
-
-#EXTINF:-1 group-title="Animes", Otaku
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes", KANADE
-https://static.kanade.cl/hls/kanade.m3u8
-
-#EXTINF:-1 group-title="Animes", Jetix
-https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes", geekdot
-https://stream.ichibansys.com:3764/hybrid/play.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Desenhos", F.Kids
-https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", Kids Mais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", Animestation
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", Ministério Infantil 
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", NBX TV KIDS
-https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", MR BEAN 2
-https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", KANUCA TV BRASIL
-https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+
+#EXTINF:-1 group-title="Pegadinhas", JUST FOR LAUGHS GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="paisagens", Rede Mundo TV
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
@@ -733,120 +563,4 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5C
 
 #EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Culinárias", COZINHANDO TV
-https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/10.m3u8
-
-#EXTINF:-1 group-title="Culinárias", RECEITAS FAST
-https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 group-title="Culinárias", TASTEMADE BRASIL
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="Culinárias", MASTERCHEF BRASIL
-https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="Culinárias", TRAVEL AND FOOD
-https://pop.uniquetv.com.br/travelfood/video.m3u8
-
-#EXTINF:-1 group-title="Culinárias", CANAL BEM MELHOR
-https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="clipes", Kpop TV Live
-https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", KPOP TV PLAY
-https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
-
-#EXTINF:-1 group-title="clipes", +MaisUm
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="clipes", MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-
-#EXTINF:-1 group-title="clipes", TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-
-#EXTINF:-1 group-title="clipes" M20 TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", RETRO MUSIC TELEVISION
-https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", RETRO PLUS TV
-https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", NOW 90S & 00S
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", NOW 70S
-https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 group-title="clipes", KRONEHIT TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", vintage TV
-https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", 4FUN TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
-
-#EXTINF:-1 group-title="clipes", PORTAL FOXMIX
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TV PARADISE
-https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", TOP TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="Encontro Marcado
-tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1"
-group-title="Filmes | romance",Encontro Marcado 1998 
-https://teleonline.org/wp-content/plugins/configuracion-tv/assets/videos/no-disponible-teleonline.mp4
-
-
-
-
 
