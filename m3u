@@ -503,50 +503,6 @@ https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="TV paga", Animal Planet
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/animalplanet.m3u8
-
-#EXTINF:-1 group-title="TV paga", Space 
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/space.m3u8
-
-#EXTINF:-1 group-title="TV paga", Megapix 
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/megapix.m3u8
-
-#EXTINF:-1 group-title="TV paga", TLC 
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tlc.m3u8
-
-#EXTINF:-1 group-title="TV paga", Discovery Channel 
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoverychannel.m3u8
-
-#EXTINF:-1 group-title="TV paga", Discovery Home & Health
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoveryhh.m3u8
-
-#EXTINF:-1 group-title="TV paga", Discovery Kids
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoverykids.m3u8
-
-#EXTINF:-1 group-title="TV paga", Discovery Turbo
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoveryturbo.m3u8
-
-#EXTINF:-1 group-title="TV paga", Food Network
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/foodnetwork.m3u8
-
-#EXTINF:-1 group-title="TV paga", HBO 2
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/hbo2.m3u8
-
-#EXTINF:-1 group-title="TV paga", HGTV
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/hgtv.m3u8
-
-#EXTINF:-1 group-title="TV paga", History
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/history.m3u8
-
-#EXTINF:-1 group-title="TV paga", HBO 
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/hbo.m3u8
-
-#EXTINF:-1 group-title="TV paga", Multishow 
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/multishow.m3u8
-
-#EXTINF:-1 group-title="TV paga", TNT Séries
-https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tntseries.m3u8
 
 #EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
