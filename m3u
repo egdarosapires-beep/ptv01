@@ -17,11 +17,6 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 
 
-
-
-
-
-
 #EXTINF:-1 group-title="Filmes", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
@@ -187,6 +182,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", EreNews
 https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
+
 
 
 
@@ -491,6 +487,10 @@ https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playl
 #EXTINF:-1 group-title="Variedades", TV Aberta
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", FUEL TV
+https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
@@ -504,8 +504,7 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playli
 
 
 
-#EXTINF:-1 group-title="paisagens", Rede Mundo TV
-https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+
 
 
 
@@ -547,3 +546,6 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 group-title="Documentários", NATURE TIME
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
