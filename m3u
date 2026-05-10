@@ -475,6 +475,10 @@ https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Tv Liberdade Pacajus
 https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Variedades", ORTVWEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
 
