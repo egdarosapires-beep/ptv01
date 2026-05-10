@@ -20,6 +20,8 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="Filmes", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
@@ -177,11 +179,8 @@ https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 group-title="Filmes", Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 group-title="Filmes", PIXTV 
-https://mpix05.tmwpix.com:6516/playoutpixtv/public/1/live/pixtvsc_pt.m3u8
-
-
-
+#EXTINF:-1 group-title="Filmes", Cine Trianon TV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 
 
 
@@ -266,6 +265,9 @@ https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 
 
 
@@ -475,16 +477,69 @@ https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Tv Liberdade Pacajus
 https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", Chroma TV
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Variedades", ORTVWEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", WEB Canal Blecaute TV
+https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV Aberta
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 
 #EXTINF:-1 group-title="Pegadinhas", JUST FOR LAUGHS GAGS
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="paisagens", Rede Mundo TV
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Animais", NZTV
+https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animais",  WILDEARTH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 group-title="Animais", PETLOVERS TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animais", TV MAIS PET
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Documentários", Iblizz
+https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", NZTV
+https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", TV NND
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", TV Atividade 
+https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", Conectv 
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+#EXTINF:-1 group-title="Documentários", NATURE TIME
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
