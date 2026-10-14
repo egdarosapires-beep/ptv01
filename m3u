@@ -12,10 +12,7 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🐎TV faroeste", GRJNGO 2
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🐎TV faroeste", Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-
-#EXTINF:-1 group-title="🐎TV faroeste", rede brasil de televisão
+#EXTINF:-1 group-title="🐎TV faroeste", rede brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 
@@ -24,23 +21,23 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="📺TV aberta", SBT SP
-https://aovivo.maissbt.com/channel_720.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
 #EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 group-title="📺TV aberta", TV CULTURAL HD
-https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
 
 #EXTINF:-1 group-title="📺TV aberta", Reviva TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
-#EXTINF:-1 group-title="📺TV aberta", Tela Brasil
-https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 
-#EXTINF:-1 group-title="📺TV aberta", Rede Brasileira de TV
-https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 group-title="📺TV aberta", TVBrasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 
 
@@ -57,72 +54,65 @@ https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="🎬Filmes", TV Cidade Brasil
+#EXTINF:-1 group-title="🎬Telecine", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Darkflix TV
+#EXTINF:-1 group-title="🎬Telecine", Darkflix TV
 https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Filmelier TV
-https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="🎬Filmes", CINE CATÁSTROFE
+
+#EXTINF:-1 group-title="🎬Telecine", CINE CATÁSTROFE
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🎬Filmes", MEGA ONE TV
+#EXTINF:-1 group-title="🎬Telecine", MEGA ONE TV
 https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Tv Explosão Fm
+#EXTINF:-1 group-title="🎬Telecine", Tv Explosão Fm
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Sony One Cinema
+#EXTINF:-1 group-title="🎬Telecine", Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Sessão Trash
+#EXTINF:-1 group-title="🎬Telecine", Sessão Trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", MOVIE SPHERE
+#EXTINF:-1 group-title="🎬Telecine", MOVIE SPHERE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
-#EXTINF:-1 group-title="🎬Filmes", TV DIFUSÃO
+#EXTINF:-1 group-title="🎬Telecine", TV DIFUSÃO
 https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", ADRENALINA PURA TV
+#EXTINF:-1 group-title="🎬Telecine", ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", TOP MIX TV
+#EXTINF:-1 group-title="🎬Telecine", TOP MIX TV
 https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", CHANNEL 1
+#EXTINF:-1 group-title="🎬Telecine", CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Sony One Emoções
+#EXTINF:-1 group-title="🎬Telecine", Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", SWT
+#EXTINF:-1 group-title="🎬Telecine", SWT
 https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", SBC
+#EXTINF:-1 group-title="🎬Telecine", SBC
 https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", NBX TV
+#EXTINF:-1 group-title="🎬Telecine", NBX TV
 https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", NBX TV PIPOCA
+#EXTINF:-1 group-title="🎬Telecine", NBX TV PIPOCA
 https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", 24 Horas Tv
+#EXTINF:-1 group-title="🎬Telecine", 24 Horas Tv
 https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 
 
@@ -134,16 +124,16 @@ https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🎬Filmes", TV J.SID
+#EXTINF:-1 group-title="🎬Telecine", TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", TV Cidade 10
+#EXTINF:-1 group-title="🎬Telecine", TV Cidade 10
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", TV Diversidade
+#EXTINF:-1 group-title="🎬Telecine", TV Diversidade
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", TVR SUL
+#EXTINF:-1 group-title="🎬Telecine", TVR SUL
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1936833837.m3u8
 
 
@@ -156,25 +146,25 @@ https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1936833837.m3u
 
 
 
-#EXTINF:-1 group-title="🎬Filmes", Runtime Ação
+#EXTINF:-1 group-title="🎬Telecine", Runtime Ação
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Runtime Crime
+#EXTINF:-1 group-title="🎬Telecine", Runtime Crime
 https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Runtime Família
+#EXTINF:-1 group-title="🎬Telecine", Runtime Família
 https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Runtime Comédia
+#EXTINF:-1 group-title="🎬Telecine", Runtime Comédia
 https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Runtime Romance
+#EXTINF:-1 group-title="🎬Telecine", Runtime Romance
 https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Runtime Trash
+#EXTINF:-1 group-title="🎬Telecine", Runtime Trash
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Runtime Clásicos
+#EXTINF:-1 group-title="🎬Telecine", Runtime Clásicos
 https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 
 
@@ -186,35 +176,35 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 
 
 
-#EXTINF:-1 group-title="🎬Filmes", CINE BRASIL
+#EXTINF:-1 group-title="🎬Telecine", CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Gospel Movie
+#EXTINF:-1 group-title="🎬Telecine", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", TV Cine
+#EXTINF:-1 group-title="🎬Telecine", TV Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🎬Filmes", 1980 CHANNEL
+#EXTINF:-1 group-title="🎬Telecine", 1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", TV ALIANÇA
+#EXTINF:-1 group-title="🎬Telecine", TV ALIANÇA
 https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", BS-TV
+#EXTINF:-1 group-title="🎬Telecine", BS-TV
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Cindie Lite
+#EXTINF:-1 group-title="🎬Telecine", Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Cine Trianon TV
+#EXTINF:-1 group-title="🎬Telecine", Cine Trianon TV
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", EreNews
+#EXTINF:-1 group-title="🎬Telecine", EreNews
 https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬Filmes", Mega Cine TV
+#EXTINF:-1 group-title="🎬Telecine", Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 
@@ -276,8 +266,6 @@ https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", NOVA BARREIROS WEB TV
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", Tv Futuro
-https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
@@ -325,8 +313,6 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", MBC BRASIL.TV
-https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Tv Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w255663103.m3u8
@@ -388,12 +374,6 @@ https://stmv4.voxtvhd.com.br/tvconectados/tvconectados/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", UNOTV STREAMING
 https://unotvstreaming.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", TV JAPÃO
-https://pop.uniquetv.com.br/tvjapao/video.m3u8
-
-#EXTINF:-1 group-title="📼Variedades", Tv Alpha
-https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
-
 #EXTINF:-1 group-title="📼Variedades", TV MAIS BRASIL
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
@@ -421,9 +401,6 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Nossa TV
 https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
-
-#EXTINF:-1 group-title="📼Variedades", Tv Liberdade Pacajus
-https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", ORTVWEB
 https://tv.ortv.com.br/hls/stream.m3u8
@@ -526,8 +503,6 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🫤TV Livre", Terra Brasil TV
-https://stmv7.samcast.com.br/elias9801/elias9801/playlist.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Tv Serra
 https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
@@ -555,9 +530,6 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", RITTV
-https://stream.ecast.com.br/rit-tv/index.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", TVUFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
@@ -591,9 +563,833 @@ https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlis
 #EXTINF:-1 group-title="🌶️Culinárias", MASTERCHEF BRASIL
 https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
 
-#EXTINF:-1 group-title="🌶️Culinárias", TRAVEL AND FOOD
-https://pop.uniquetv.com.br/travelfood/video.m3u8
-
 #EXTINF:-1 group-title="🌶️Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🛻Automóveis", RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🛻Automóveis", NASCAR Channel
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
+
+#EXTINF:-1 group-title="🛻Automóveis", Red Bull TV Motorsport
+https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
+
+#EXTINF:-1 group-title="🛻Automóveis", WSN TV do Carro
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
+
+#EXTINF:-1 group-title="🛻Automóveis", Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="📺GTA VC", MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🎮Games",  CANAL START
+https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
+
+#EXTINF:-1 group-title="🎮Games", Play TV 
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="🎮Games", PlayTV.br
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 group-title="🎮Games", YEEAAH
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 group-title="🎮Games", YEEAAH 2
+https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8
+
+#EXTINF:-1 group-title="🎮Games", WEB Canal Blecaute TV
+https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="🎎Animes", Anime TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
+
+#EXTINF:-1 group-title="🎎Animes", Loading" 
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎎Animes", Otaku
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+
+#EXTINF:-1 group-title="🎎Animes", geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🎈Desenhos", F.Kids
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
+#EXTINF:-1 group-title="🎈Desenhos", Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+
+#EXTINF:-1 group-title="🎈Desenhos", Animestation
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="🎈Desenhos", Ministério Infantil 
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+
+#EXTINF:-1 group-title="🎈Desenhos", NBX TV KIDS
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+
+#EXTINF:-1 group-title="🎈Desenhos", MR BEAN 2
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="🎈Desenhos", RETRÔ CARTOON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎈Desenhos", Nick Toons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Jetsons.png" group-title="🎈Desenhos", Os Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🎶clipes", KPOP TV PLAY
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", ZOOM MUSIC
+https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🎶clipes", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
+#EXTINF:-1 group-title="🎶clipes" M20 TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", RETRO MUSIC TELEVISION
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", NOW 90S & 00S
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", vintage TV
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", TV PARADISE
+https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 group-title="🎶clipes", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/kronehit.png" group-title="🎶clipes", KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Desligue! (2026)" tvg-logo="https://www.dropbox.com/scl/fi/tn01d9mjuaswanjjc72bv/Desligue-2026.png?rlkey=zlouuhl58kntjpdio6mpz8aw0&st=ukcywoqx&dl=1" group-title="Filmes | Suspense", Desligue! (2026)
+https://archive.org/download/desligue.-2026/Desligue.2026.mp4
+
+#EXTINF:-1 tvg-name="Barbarella" tvg-logo="https://www.dropbox.com/scl/fi/nz3rpgz87mndw6pfsojzg/Barbarella.png?rlkey=m8la1cryjtd8k8fk4hgm7wo1s&st=5acqh9cq&dl=1" group-title=1"Filmes | Ficção Científica", Barbarella
+https://ia600905.us.archive.org/7/items/barbarella-dublado/Barbarella%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-name="Capitã Marvel 2019" tvg-logo="https://www.dropbox.com/scl/fi/43ku38gyasandchankdte/Capit-Marvel-2019.png?rlkey=fsduxgxlfjym7z1xvp9218ikt&st=lpbxteen&dl=1" group-title="Filmes | Ficção Científica", Capitã Marvel 2019
+tã%20Marvel%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Capitã.Marvel.2019.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.TV-TioKennedy.mp4
+
+
+
+#EXTINF:-1 tvg-name="Uma Escola Muito" tvg-logo="https://www.dropbox.com/scl/fi/omqgpqcihie5sfzfe7qma/Uma-Escola-Muito-Doida-1996.png?rlkey=mw0zhx046i6adu7fhvqvy4j7z&st=0bthy0bp&dl=1" group-title="Filmes | Comedia", Uma Escola Muito
+https://dn711005.ca.archive.org/0/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4
+
+
+
+
+
+https://www.dropbox.com/scl/fi/omqgpqcihie5sfzfe7qma/Uma-Escola-Muito-Doida-1996.png?rlkey=mw0zhx046i6adu7fhvqvy4j7z&st=0bthy0bp&dl=0
+
+
+
+#EXTINF:-1 group-title="Filmes", Era Uma Vez Na Floresta
+https://ia801600.us.archive.org/3/items/era-uma-vez-na-floresta/Era%20uma%20Vez%20na%20Floresta.mp4
+
+#EXTINF:-1 group-title="Filmes", Matilda ( 1996)
+https://ia903200.us.archive.org/22/items/matilda-1996-dublagem-mastersound/Matilda%20%281996%29%20-%20Dublagem%20Mastersound.ia.mp4
+
+
+#EXTINF:-1 group-title="Filmes", Punhos. Sangrentos (1989)
+https://ia800702.us.archive.org/1/items/1.-punhos.-sangrentos.-punhos.de.-sangue.-bloodfist.-1989.-web-dl.-1080p.-dual.jhonatan-28/1.Punhos.Sangrentos.%28Punhos.de.Sangue%29.%28Bloodfist%29.%281989%29.WEB-DL.1080p.Dual.jhonatan28.mp4
+
+#EXTINF:-1 group-title="Filmes", Monty Python - O Sentido da Vida [1983]
+https://ia800905.us.archive.org/5/items/monty-python-o-sentido-da-vida/Monty%20Python%20-%20O%20Sentido%20da%20Vida.mp4
+
+#EXTINF:-1 group-title="Filmes", Level Up (2011)
+https://ia601602.us.archive.org/3/items/level-up-filme-dublado-completo/Level%20up%20Filme%20dublado%20completo.ia.mp4
+
+#EXTINF:-1 group-title="Filmes", A Hora do Rango
+https://archive.org/download/waiting.-dvdrip.-xvid.-2005.-lwinchester/Waiting.DVDRip.Xvid.2005.LWINCHESTER.mp4
+
+#EXTINF:-1 group-title="Filmes", O Dono da Festa
+https://dn721802.ca.archive.org/0/items/o.-dono.da.-festa.-dvdrip.-dublado/O.Dono.da.Festa.DVDRip.Dublado.mp4
+
+#EXTINF:-1 group-title="Filmes", Palhaços Assassinos Do Espaço Sideral
+https://dn600300.us.archive.org/0/items/dublado-horrordrives/dublado%20%40horrordrives%20.mp4
+
+#EXTINF:-1 group-title="Filmes", Livro De Sangue ( 2009)
+https://dn710207.ca.archive.org/0/items/livro-de-sangue-2009-filme-dublado-terror/Livro%20de%20Sangue%20%282009%29%20-%20Filme%20%20Dublado%20-%20Terror.ia.mp4
+
+#EXTINF:-1 group-title="Filmes", A História Sem Fim
+https://dn721605.ca.archive.org/0/items/a-historia-sem-fim_202409/A%20História%20Sem%20Fim.mp4
+
+#EXTINF:-1 group-title="Filmes", Batalha dos Impérios
+https://dn711108.ca.archive.org/0/items/youtube-yAPce-l3K9E/yAPce-l3K9E.mp4
+
+#EXTINF:-1 group-title="Filmes", Conectado (2008)
+https://dn710908.ca.archive.org/0/items/youtube-cGJXsNoJ9bI/cGJXsNoJ9bI.mp4
+
+#EXTINF:-1 group-title="Filmes", Nenhum a Menos (Not One Less) 1999 
+https://ia801001.us.archive.org/28/items/nenhum.a.-menos-1999-1080p-2-a-3-s/Nenhum.a.Menos_1999_1080p2A3S.mp4
+
+#EXTINF:-1 group-title="Filmes", A Batalha de Honra do Jet Li
+https://dn711208.ca.archive.org/0/items/youtube-v0OmSzpriJo/v0OmSzpriJo.ia.mp4
+
+#EXTINF:-1 group-title="Filmes", Assassino Sem Rastro 2022
+https://dn720200.ca.archive.org/0/items/assassino.-sem.-rastro.-2022.-dub/Assassino.Sem.Rastro.2022.Dub.ia.mp4
+
+#EXTINF:-1 group-title="Filmes", O Feitiço das Gêmeas (1993)
+https://dn721608.ca.archive.org/0/items/o-feitico-das-gemeas-vhsrip-sbt-cinema-em-casa-semi-completo/O%20feitiço%20das%20gêmeas%20VHSrip%20SBT%20Cinema%20em%20Casa%20semi-completo.mp4
+
+#EXTINF:-1 group-title="Filmes", 10 Coisas Que Eu Odeio Em Você
+https://dn710006.ca.archive.org/0/items/10-coisas-que-eu-odeio-em-voce/10%20coisas%20que%20eu%20odeio%20em%20você.mp4
+
+#EXTINF:-1 group-title="Filmes", Splash Uma Sereia Em Minha Vida ( 1984)
+https://dn710006.ca.archive.org/0/items/splash-uma-sereia-em-minha-vida-1984/Splash%20-%20Uma%20Sereia%20em%20minha%20vida-%281984%29.mp4
+
+#EXTINF:-1 group-title="Filmes", O chamado da floresta
+https://dn710103.ca.archive.org/0/items/1-5021835896043864236/1_5021835896043864236.ia.mp4
+
+#EXTINF:-1 group-title="Filmes", O Rei Da Paquera ( 1987)
+https://ia601401.us.archive.org/1/items/o-rei-da-paquera-1987-dublado-1080p/O%20Rei%20da%20Paquera%20%281987%29%20Dublado%201080p.mp4
+
+#EXTINF:-1 group-title="Filmes", Sussurros Do Coração 1995
+https://archive.org/download/sussurros-do-coracao-1995-dublado/Sussurros_do_Coração_1995_Dublado.mp4
+
+#EXTINF:-1 group-title="Filmes", O Homem Da Mascara De Ferro 1977
+https://dn710601.ca.archive.org/0/items/OHomemDaMascaraDeFerro1977Dvd9_201806/OHomemDaMascaraDeFerro1977Dvd9.mp4
+
+#EXTINF:-1 group-title="Filmes", A Hora Azul (2014)
+https://dn600309.us.archive.org/0/items/ahora-azul-2014/AHoraAzul_2014.mp4
+
+#EXTINF:-1 group-title="Filmes", A Viagem (2013)
+https://ia600801.us.archive.org/21/items/a-viagem-2013/A%20Viagem%20%282013%29.mp4
+
+#EXTINF:-1 group-title="Filmes", Minha Irmã Invisível
+https://ia801505.us.archive.org/0/items/minha-irma-invisivel-leg/Minha%20Irmã%20Invisível%20leg.mp4
+
+#EXTINF:-1 group-title="Filmes", O Pacto
+https://archive.org/download/o.-pacto.-seeking.-justice-.-.-dual.u-00c-1udio.by.-g-1-filmes.com/O.Pacto.-Seeking.Justice-.-.Dual.u00c1udio.by.G1Filmes.com.mp4
+
+#EXTINF:-1 group-title="Filmes", Mulher 2022
+https://archive.org/download/mulher.-2022.1080p.-web-dl.-dual/Mulher.2022.1080p.WEB-DL.DUAL.mp4
+
+#EXTINF:-1 group-title="Filmes", 1408 ( 2007)
+https://archive.org/download/1408-2007_20260927/1408%20%282007%29.mp4
+
+#EXTINF:-1 group-title="Filmes", A Noite De Formatura
+https://archive.org/download/a-noite-de-formatura-o-filme-minha-vida-em-serie/A%20Noite%20de%20Formatura%20-%20O%20FILME%20%28Minha%20Vida%20em%20S%C3%A9rie%29.mp4
+
+#EXTINF:-1 group-title="Filmes", O Navio Fantasma (2002
+https://archive.org/download/o-navio-fantasma/O%20navio%20Fantasma.mp4
+
+#EXTINF:-1 group-title="Filmes", Assédio Mortal
+https://archive.org/download/assedio-mortal/Ass%C3%A9dio%20Mortal.mp4
+
+#EXTINF:-1 group-title="Filmes", Na Natureza Selvagem (2008)
+https://archive.org/download/nanaturezaselvagem2008720pdubladoalan680-paixaoflix/Na%20Natureza%20Selvagem%20%282008%29%20720p%20Dublado%20-%20Alan_680_ready.mp4
+
+#EXTINF:-1 group-title="Filmes", Piratas do Caribe - Navegando em Águas Misteriosas
+https://archive.org/download/piratasdocaribenavegandoemaguasmisteriosas-paixaoflix/Piratas%20do%20Caribe%20-%20Navegando%20em%20%C3%81guas%20Misteriosas_ready.mp4
+
+#EXTINF:-1 group-title="Filmes", Piratas do Caribe - No Fim do Mundo
+https://archive.org/download/piratasdocaribenofimdomundo-paixaoflix/Piratas%20do%20Caribe%20-%20No%20Fim%20do%20Mundo_ready.mp4
+
+#EXTINF:-1 group-title="Filmes", Piratas do Caribe - A Vingança de Salazar
+https://archive.org/download/piratasdocaribeavingancadesalazar-paixaoflix/Piratas%20do%20Caribe%20-%20A%20Vingan%C3%A7a%20de%20Salazar_ready.mp4
+
+
+#EXTINF:-1 group-title="Filmes", Um Amor Para Recorda
+https://archive.org/download/filme-um-amor-para-recordar-dublado-pt-br/Filme%20-%20Um%20amor%20para%20recordar%20%28dublado%20pt-br%29.mp4
+
+#EXTINF:-1 group-title="Filmes", Hospede Indesejado 2019
+https://archive.org/download/hospede-indesejado-2019/Hospede%20Indesejado%202019.mp4
+
+#EXTINF:-1 group-title="Filmes", Eu Te Levo (2017)
+https://archive.org/download/eu-te-levo-2017/Eu%20te%20Levo%20%5B60e3695fc567be0013a85cf6%5D.mp4
+
+#EXTINF:-1 group-title="Filmes", O Elevador Sem Destino (1983)
+https://archive.org/download/o-elevador-sem-destino-1983/O%20Elevador%20sem%20Destino%20%281983%29.mp4
+
+
+#EXTINF:-1 group-title="Filmes", Justiça Brutal
+https://archive.org/download/justica-brutal-dublado-online-filmes-online-gratis-br/Justi%C3%A7a%20Brutal%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4
+
+#EXTINF:-1 group-title="Filmes", O Chamado
+https://ia800803.us.archive.org/21/items/ring-0-o-chamado-dublado/Dublado.mp4
+
+#EXTINF:-1 group-title="Filmes", Impacto Brutal
+https://archive.org/download/impactobrutal-police-paixaoflix/Impacto%20Brutal_ready.mp4
+
+#EXTINF:-1 group-title="Filmes", Assalto ao Banco Central
+https://archive.org/download/assaltoaobancocentral-police-paixaoflix/Assalto%20ao%20Banco%20Central_ready.mp4
+
+#EXTINF:-1 group-title="Filmes", Assassinos de Aluguel
+https://archive.org/download/assassinosdealuguel-police-paixaoflix/Assassinos%20de%20Aluguel_ready.mp4
+
+
+#EXTINF:-1 group-title="Filmes", A CASA ASSASSINADA, De Paulo César Saraceni (1971)
+https://archive.org/download/2.-a-casa-assassinada-de-paulo-cesar-saraceni-1971/2.%20A%20CASA%20ASSASSINADA%2C%20de%20Paulo%20C%C3%A9sar%20Saraceni%20%281971%29.mp4
+
+#EXTINF:-1 group-title="Filmes", A Lagoa Azul (1980)
+https://archive.org/download/a-lagoa-azul-1980-dublado-1080p-jr/A%20Lagoa%20Azul%20%281980%29%20Dublado%201080p%20jr.mp4
+
+#EXTINF:-1 group-title="Filmes", Bill E Ted Dois Loucos No Tempo
+https://archive.org/download/bill-e-ted-dois-loucos-no-tempo/Bill%20e%20Ted%20-%20Dois%20Loucos%20no%20Tempo.mp4
+
+#EXTINF:-1 group-title="Filmes", Confissões (2009)
+https://archive.org/download/confissoes-2009/Confissoes_2009.mp4
+
+#EXTINF:-1 group-title="Filmes", Resident Evil: Degeneração
+https://ia902802.us.archive.org/11/items/resident-evil-degeneracao-dublado/Resident.Evil.Degeneração.2008.1080p.BluRay.%5BCartoonNOW%5D.mp4
+
+#EXTINF:-1 group-title="Filmes", Resident Evil: Condenação
+https://ia800700.us.archive.org/10/items/resident-evil-condenacao-dublado/biohazard-damnation-dublado.mp4
+
+#EXTINF:-1 group-title="Filmes", Sucker punch
+https://archive.org/download/f20767009c736366bac05f8b4719165800fa6ba96016a22eeb62f745fef5088d/f20767009c736366bac05f8b4719165800fa6ba96016a22eeb62f745fef5088d.ia.mp4
+
+#EXTINF:-1 group-title="Filmes", A Balada De Buster Scruggs
+https://archive.org/download/a-balada-de-buster-scruggs-2018/A%20Balada%20de%20Buster%20Scruggs%20%282018%29.mp4
+
+#EXTINF:-1 group-title="Filmes", Confusão no Velho Oeste
+https://dn711408.ca.archive.org/0/items/filme-confusao-no-velho-oeste/Filme_%20Confusão%20no%20Velho%20Oeste%20%28Gêmeas%20Olsen_%201993%29.mp4
+
+#EXTINF:-1 group-title="Filmes", A Grande Família
+https://archive.org/download/a-grande-familia-o-filme-2007/A%20Grande%20Fam%C3%ADlia%20-%20O%20Filme%20%282007%29%20.mp4
+
+#EXTINF:-1 group-title="Filmes", O Grande Truque 2006
+https://archive.org/download/o-grande-truque/O%20Grande%20Truque.mp4
+
+#EXTINF:-1 group-title="Filmes", O Estrondo 1
+https://archive.org/compress/o-estrondo-2-2013/formats=H.264%20IA&file=/o-estrondo-2-2013.zip
+
+#EXTINF:-1 group-title="Filmes", O Estrondo 2
+https://archive.org/compress/o-estrondo-2-2013/formats=MPEG4&file=/o-estrondo-2-2013.zip
+
+#EXTINF:-1 group-title="Filmes", O Resgate De Jessica 1989
+https://ia800407.us.archive.org/29/items/o-resgate-de-jessica-1989-dual-576p-web-dl-rmz-leonardo-nunes/O%20Resgate%20de%20Jessica%20-%201989%20-%20Dual%20576p%20WEB-DL-RMZ-Leonardo%20Nunes.mp4
+
+#EXTINF:-1 group-title="Filmes", Morando Com O Perigo. 1990
+https://archive.org/download/morando-com-o-perigo.-1990/Morando%20com%20o%20Perigo.1990.mp4
+
+#EXTINF:-1 group-title="Filmes", O Auto da Compadecida-01
+https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_1.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Animação", Shiki Oriori O Sabor Da Juventude
+https://archive.org/download/shiki-oriori-o-sabor-da-juventude/Shiki%20Oriori%20O%20Sabor%20da%20Juventude.mp4
+
+
+
+
+
+
+#EXTINF:-1 group-title="Animação", Shiki Oriori O Sabor Da Juventude
+https://archive.org/download/shiki-oriori-o-sabor-da-juventude/Shiki%20Oriori%20O%20Sabor%20da%20Juventude.mp4
+
+#EXTINF:-1 group-title="Animação", wata no kuni hoshi
+https://archive.org/download/wata-no-kuni-hoshi/wata-no-kuni-hoshi.mp4
+
+#EXTINF:-1 group-title="Animação", kimi to nami ni noretara
+https://archive.org/download/kimi-to-nami-ni-noretara_202604/kimi-to-nami-ni-noretara.mp4
+
+#EXTINF:-1 group-title="Animação", buddha saitan
+https://archive.org/download/buddha-saitan-dublado/buddha-saitan-dublado.mp4
+
+#EXTINF:-1 group-title="Animação", cider no you ni kotoba ga wakiagaru
+https://archive.org/download/cider-no-you-ni-kotoba-ga-wakiagaru-dublado-filme/cider-no-you-ni-kotoba-ga-wakiagaru-dublado-filme.mp4
+
+#EXTINF:-1 group-title="Animação", Blame
+https://dn721601.ca.archive.org/0/items/blame-filme-dublado/Blame-Filme-Dublado.mp4
+
+#EXTINF:-1 group-title="Animação", Devolva Me Gohan
+https://ia801902.us.archive.org/8/items/vhs-devolva-me-gohan-imagem-filmes-sp/VHS%20-%20Devolva-me%20Gohan%20-%20%28Imagem%20Filmes%29%20%5BSP%5D.mp4
+
+#EXTINF:-1 group-title="Animação", nakitai watashi wa neko wo kaburu
+https://archive.org/download/nakitai-watashi-wa-neko-wo-kaburu-filme-dublado/nakitai-watashi-wa-neko-wo-kaburu-filme-dublado.mp4
+
+#EXTINF:-1 group-title="Animação", genmu senki leda
+https://archive.org/download/genmu-senki-leda-dublado/genmu-senki-leda-dublado.mp4
+
+
+#EXTINF:-1 group-title="Animação", A Lenda De Yobi A Raposa De Cinco 
+https://archive.org/download/a-lenda-de-yobi-a-raposa-de-cinco-caldas-dublado/A%20lenda%20de%20Yobi%20a%20raposa%20de%20cinco%20caldas%20%28%20dublado%20%29.mp4
+
+#EXTINF:-1 group-title="Animação", A Princesa E O Duende
+https://archive.org/download/a-princesa-e-o-duende-1991/A%20Princesa%20e%20o%20Duende%20%281991%29.mp4
+
+
+
+#EXTINF:-1 group-title="Animação", Yu Gi Oh! O Filme Pirâmide de Luz
+https://dn710206.ca.archive.org/0/items/yu-gi-oh-o-filme-piramide-de-luz-versao-japonesa-dublado/Yu-Gi-Oh%21%20O%20Filme%20-%20Pirâmide%20de%20Luz%20Versão%20Japonesa%20Dublado.ia.mp4
+
+#EXTINF:-1 group-title="Animação", Desenho Do EDGAR & ELLEN 1ª Temporada - 17 Episódios
+https://archive.org/download/desenho-do-edgar-ellen-1a-temporada-com-17-episodios/Desenho%20do%20EDGAR%20%26%20ELLEN%20-%201ª%20Temporada%20com%2017%20Episódios%20✅.ia.mp4
+
+
+#EXTINF:-1 group-title="Animação", Cyber Team In Akihabara Férias De Verão 
+https://archive.org/download/cyber-team-in-akihabara-ferias-de-verao-dublado/Cyber%20Team%20in%20Akihabara%20F%C3%A9rias%20de%20Ver%C3%A3o%20-%20Dublado.mp4
+
+#EXTINF:-1 group-title="Animação",Sakura Card Captors - Filme 1 - Viagem à Hong Kong
+https://archive.org/download/cardcaptor-sakura-classico-t1e01-35-filme-1/CardCaptor%20Sakura%20Cl%C3%A1ssico%20T1E01-35%20%2B%20Filme%201/Sakura%20Card%20Captors%20-%20Filme%201%20-%20Viagem%20%C3%A0%20Hong%20Kong%20-%20Dublado.mp4
+
+#EXTINF:-1 group-title="Animação", Sakura Card Captors - Filme 2 - A Carta Selada
+https://archive.org/download/cardcaptor-sakura-classico-t3e47-70-filme-2_202603/CardCaptor%20Sakura%20Cl%C3%A1ssico%20T3E47-70%20%2B%20Filme%202/Sakura%20Card%20Captors%20-%20Filme%202%20-%20A%20Carta%20Selada%20-%20Dublado.mp4
+
+
+#EXTINF:-1 group-title="Animação", A Viagem De Chihiro
+https://ia600507.us.archive.org/17/items/a-viagem-de-chihiro-blu-ray-1080p-tri-audio/A%20Viagem%20de%20Chihiro%20%282003%29%20BluRay%201080p%20Tri%20Áudio.mp4
+
+
+#EXTINF:-1 group-title="Animação", A Festa do Monstro Maluco
+https://archive.org/download/a-festa-do-monstro-maluco-1967-remasterizado/A%20Festa%20do%20Monstro%20Maluco%20%281967%20-%20Remasterizado%29.mp4
+
+#EXTINF:-1 group-title="Animação", Dragon Ball Z: O Filme (1997)
+https://archive.org/download/anuncio-dbz-o-filme/Anuncio%20DBZ%20o%20Filme.mp4
+
+#EXTINF:-1 group-title="Animação", Pokémon 2000
+https://ia800405.us.archive.org/22/items/PKM2000TCFUN/Pokémon%202000%20O%20Filme%20%28Telecine%20Fun%29%20%5BTV-Rip%5D.ia.mp4
+
+#EXTINF:-1 group-title="Animação", Kitaro Tanjou - Gegege No Nazo (CdA & Gekigá)
+https://dn721907.ca.archive.org/0/items/nononovo-kitaro-2023/%5BCdA%20%26%20Gekiga%5D%20Kitaro%20Tanjou%20-%20Gegege%20No%20Nazo.mp4
+
+#EXTINF:-1 group-title="Animação", Dead Leaves
+https://dn721909.ca.archive.org/0/items/fuckill-e-gregoryluis-09-dead-leaves-movie-bd-1080p-dual-audio-8-fff-951-d/%5BFUCKILL%20e%20gregoryluis09%5D%20Dead%20Leaves%20-%20Movie%20%5BBD%201080p%20Dual-Áudio%5D%20%5B8FFF951D%5D.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Thumbelina S1E1" tvg-logo="https://www.dropbox.com/scl/fi/86gb22q1oiofeqqp1rak6/Thumbelina.png?rlkey=bk6v3np7jyw27ba1xh1ov6m51&st=t9cnffqc&dl=1" group-title="Séries | Animes",Thumbelina S1E1
+https://archive.org/download/thumbelinadvdbr/THUMBELINA.mp4
+
+#EXTINF:-1 tvg-name="Thumbelina S1E2" tvg-logo="https://www.dropbox.com/scl/fi/86gb22q1oiofeqqp1rak6/Thumbelina.png?rlkey=bk6v3np7jyw27ba1xh1ov6m51&st=t9cnffqc&dl=1" group-title="Séries | Animes",Thumbelina S1E2
+https://dn710204.ca.archive.org/0/items/thumbelinadvdbr/THUMBELINA2.mp4
+
+#EXTINF:-1 tvg-name="Thumbelina S1E3" tvg-logo="https://www.dropbox.com/scl/fi/86gb22q1oiofeqqp1rak6/Thumbelina.png?rlkey=bk6v3np7jyw27ba1xh1ov6m51&st=t9cnffqc&dl=1" group-title="Séries | Animes",Thumbelina S1E3
+https://dn710204.ca.archive.org/0/items/thumbelinadvdbr/THUMBELINA3.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E1" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E1
+https://ia801008.us.archive.org/4/items/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2001%20%5BDVD%20720p%20Dual-Áudio%5D%20%5BBFFC1225%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E2" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E2
+https://ia801008.us.archive.org/4/items/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2002%20%5BDVD%20720p%20Dual-Áudio%5D%20%5B5699DF66%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E3" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E3
+https://ia801008.us.archive.org/4/items/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2003%20%5BDVD%20720p%20Dual-Áudio%5D%20%5B43F7908A%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E4" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E4
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2004%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B86E21025%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E5" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E5
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2005%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFAB64D2A%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E6" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E6
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2006%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BC39C6D58%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E7" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E7
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2007%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5B60BE00%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E8" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E8
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2008%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B800E4F97%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E9" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E9
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2009%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B7AC42FF1%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E10" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E10
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2010%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B51A57388%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E11" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E11
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2011%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5D3F9EAA%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E12" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E12
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2012%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B1DBD4012%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E13" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E13
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2013%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFFB664FE%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E14" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E14
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2014%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BA0AA8627%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E15" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E15
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2015%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B6B2E504E%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E16" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E16
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2016%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BEC3C80E5%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E17" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E17
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2017%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B118C81A3%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E18" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E18
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2018%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B54497B2C%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E19" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E19
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2019%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BA9192235%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E20" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E20
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2020%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B87107494%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E21" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E21
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2021%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BB806F307%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E22" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E22
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2022%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B535D5B46%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E23" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E23
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2023%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BD5995867%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E24" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E24
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2024%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5CAA1A62%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E25" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E25
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2025%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B9B08F9FA%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E26" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E26
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2026%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B849B63BC%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E27" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E27
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2027%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BE26BE83E%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E28" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E28
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2028%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B16F2965D%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E29" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E29
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2029%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5582BB3B%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E30" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E30
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2030%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B3BD1C3BC%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E31" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E31
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2031%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B47B80E8E%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E32" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E32
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2032%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B11F98F47%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E33" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E33
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2033%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B04F64559%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E34" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E34
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2034%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFBE2FCF7%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E35" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E35
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2035%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B8C453854%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E36" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E36
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2036%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B7DDC7417%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E37" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E37
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2037%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B77341964%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E38" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E38
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2038%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B67E4427B%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E39" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E39
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2039%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFC5A96CA%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E40" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E40
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2040%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B8D408093%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E41" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E41
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2041%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B02D705BF%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E42" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E42
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2042%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BA6EB809C%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E43" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E43
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2043%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BC58F7947%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E44" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E44
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2044%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BCB09A404%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E45" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E45
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2045%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B22E3E9BA%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E46" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E46
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2046%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B9282ED98%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E47" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E47
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2047%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B62506183%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E48" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E48
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2048%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFD3502E3%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E49" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E49
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2049%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B3B1D9D80%5D.mp4
+#EXTINF:-1 tvg-name="Nadja do Amanhã S1E50" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E50
+https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2050%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B2FEE4551%5D.mp4
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Ikkitousen S1E1" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E1
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2001%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E2" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E2
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2002%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E3" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E3
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2003%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E4" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E4
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2004%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E5" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E5
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2005%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E6" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E6
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2006%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E7" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E7
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2007%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E8" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E8
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2008%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E9" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E9
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2009%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E10" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E10
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2010%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E11" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E11
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2011%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E12" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E12
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2012%20dub.mp4
+#EXTINF:-1 tvg-name="Ikkitousen S1E13" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E13
+https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2013%20dub.mp4
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Galaxy Angel S1E1" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E1
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2001%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E2" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E2
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2002%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E3" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E3
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2003%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E4" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E4
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2004%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E5" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E5
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2005%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E6" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E6
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2006%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E7" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E7
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2007%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E8" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E8
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2008%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E9" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E9
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2009%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E10" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E10
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2010%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E11" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E11
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2011%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E12" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E12
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2012%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E13" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E13
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2013%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E14" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E14
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2014%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E15" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E15
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2015%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E16" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E16
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2016%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E17" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E17
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2017%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E18" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E18
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2018%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E19" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E19
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2019%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E20" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E20
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2020%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E21" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E21
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2021%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E22" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E22
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2022%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E23" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E23
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2023%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E24" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E24
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2024%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E25" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E25
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20Special%27s%2001%20%282002%29%20-%2025%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+#EXTINF:-1 tvg-name="Galaxy Angel S1E26" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E26
+https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20Special%27s%2002%20%282002%29%20-%2026%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
+
+#EXTINF:-1 tvg-name="Barom One S1E1" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E1
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E01%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E2" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E2
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E02%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E3" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E3
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E03%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E4" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E4
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E04%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E5" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E5
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E05%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E6" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E6
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E06%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E7" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E7
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E07%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E8" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E8
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E08%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E9" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E9
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E09%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E10" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E10
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E10%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E11" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E11
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E11%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E12" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E12
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E12%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+#EXTINF:-1 tvg-name="Barom One S1E13" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E13
+https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E13%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Solty Rei S1E1" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E1
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2001%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E2" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E2
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2002%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E3" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E3
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2003%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E4" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E4
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2004%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E5" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E5
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2005%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E6" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E6
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2006%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E7" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E7
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2007%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E8" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E8
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2008%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E9" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E9
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2009%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E10" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E10
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2010%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E11" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E11
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2011%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E12" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E12
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2012%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E13" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E13
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2013%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E14" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E14
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2014%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E15" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E15
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2015%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E16" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E16
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2016%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E17" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E17
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2017%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E18" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E18
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2018%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E19" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E19
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2019%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E20" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E20
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2020%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E21" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E21
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2021%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E22" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E22
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2022%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E23" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E23
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2023%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E24" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E24
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2024%20%28BD%20Hi10P%201308x720%29.mp4
+#EXTINF:-1 tvg-name="Solty Rei S1E25" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E25
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%20Epis%C3%B3dio%20Extra%20%28BD%20Hi10P%201308x720%29.mp4
+
+
+
+
+
+
+
+
+
 
