@@ -16,11 +16,16 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 
+#EXTINF:-1 tvg-id="ElementalChannel.br" group-title="🐎TV faroeste" tvg-logo="https://i.imgur.com/8upyApg.png",Elemental Channel
 
 
 
 
+#EXTINF:-1 group-title="📺TV aberta", SBT Interior
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", SBT SP
+https://aovivo.maissbt.com/channel_720.m3u8
 
 #EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
@@ -28,17 +33,50 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u
 #EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", Record TV
+https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", Record TV Rio
+https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
 #EXTINF:-1 group-title="📺TV aberta", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", TV CULTURAL HD
+https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="📺TV aberta", Reviva TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", Tela Brasil
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", Rede Brasileira de TV
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", RedeTV Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TV aberta", TVBrasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", TV Aberta
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w2063603411.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="📺TV aberta" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-quality="720p",Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br" group-title="📺TV aberta" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-quality="720p",Fish TV
+http://45.162.64.114/FISH_TV/index.m3u8
 
 
 
@@ -46,6 +84,47 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="Notícias" tvg-logo="https://i.imgur.com/sFcOZeo.png" tvg-quality="720p",AgroMais
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AratuOn.br" group-title="Notícias" tvg-logo="https://i.imgur.com/Ht4jCab.png",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="BMCNews.br" group-title="Notícias" tvg-logo="https://i.imgur.com/pOUY2Uz.png" tvg-quality="720p",BM&C News
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" group-title="Notícias" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" tvg-quality="720p",BandNews
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" tvg-quality="1080p",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" group-title="Notícias" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="J3NEWSTV.br" group-title="Notícias" tvg-logo="https://i.imgur.com/lezIQyL.png",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" tvg-quality="720p",Jovem Pan News
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="PlenaTV.br" group-title="Notícias" tvg-logo="https://i.imgur.com/lH4RT7b.png" tvg-quality="720p",Plena TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="Notícias" tvg-logo="https://i.imgur.com/HZDRG0K.png" tvg-quality="720p",Record News
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br" group-title="Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" tvg-quality="720p",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="STZTV.br" group-title="Notícias" tvg-logo="https://i.imgur.com/SeF2I7q.png" tvg-quality="1080p",STZ TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br" group-title="Notícias" tvg-logo="https://i.imgur.com/aMuMVvB.png" tvg-quality="1080p",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br" group-title="Notícias" tvg-logo="https://i.imgur.com/I7XGMhj.png" tvg-quality="720p",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrusque.br" group-title="Notícias" tvg-logo="https://i.imgur.com/J2EAZPS.png" tvg-quality="720p",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br" group-title="Notícias" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-quality="720p",TV Sim Cachoeiro
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br" group-title="Notícias" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-quality="720p",TV Sim Sao Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br" group-title="Notícias" tvg-logo="https://i.imgur.com/vstHOYx.png" tvg-quality="720p",TVideoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="VEJAPlusTV.br" group-title="Notícias" tvg-logo="https://i.imgur.com/n0pxHo4.png" tvg-quality="1080p",VEJA+ TV
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br" group-title="Público" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-quality="1080p",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
 
 
 
@@ -450,7 +529,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="🐫Animais", PETLOVERS TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="TVPlusPet" group-title="🐫Animais" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
 
 
@@ -473,10 +553,17 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 group-title="🪪Documentários", Conectv 
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
+#EXTINF:-1 tvg-id="History.br" group-title="🪪Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-quality="720p",History
+http://45.177.114.114/HISTORY/index.m3u8
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="ComedyCentralBrasil.br" group-title="🤪Pegadinhas" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-quality="480p",Comedy Central Brasil
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
 #EXTINF:-1 group-title="🤪Pegadinhas", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
@@ -497,6 +584,16 @@ https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
 #EXTINF:-1 group-title="✈️paisagens", Rede Mundo TV
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="Viagem" tvg-logo="https://i.imgur.com/I6pKoBd.png" tvg-quality="720p",TV Parana Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="Viagem" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-quality="720p",Travel Box Brazil
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+
 
 
 
@@ -552,6 +649,15 @@ https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", +MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="RedeNGT" group-title="TV Livre" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-quality="1080p",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="🌶️Culinárias", RECEITAS FAST
@@ -565,11 +671,6 @@ https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/
 
 #EXTINF:-1 group-title="🌶️Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-
-
-
-
 
 
 
@@ -633,6 +734,9 @@ https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
 #EXTINF:-1 group-title="🎎Animes", Loading" 
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Loading.br" group-title="🎎Animes" tvg-logo="https://i.imgur.com/R0aflu1.png" tvg-quality="720p",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
 #EXTINF:-1 group-title="🎎Animes", Otaku
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
@@ -671,6 +775,34 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Jetsons.png" group-title="🎈Desenhos", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" tvg-quality="720p",Box Kids TV
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-quality="720p",DumDum
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" tvg-quality="480p" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Nickelodeon
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -779,6 +911,12 @@ https://dn711005.ca.archive.org/0/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV
 https://www.dropbox.com/scl/fi/omqgpqcihie5sfzfe7qma/Uma-Escola-Muito-Doida-1996.png?rlkey=mw0zhx046i6adu7fhvqvy4j7z&st=0bthy0bp&dl=0
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="AXN.br" group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-quality="720p",AXN
+http://170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 group-title="Filmes", Era Uma Vez Na Floresta
 https://ia801600.us.archive.org/3/items/era-uma-vez-na-floresta/Era%20uma%20Vez%20na%20Floresta.mp4
