@@ -12,11 +12,26 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 
 
+#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="🌍Globo",Globoplay Novelas (1080p)
+http://170.82.202.31/Viva/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="🌍Globo",TV Globo Sao Paulo (720p)
+http://170.84.165.204/Globo_HD/index.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="📺TV aberta", SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:-1 group-title="📺TV aberta", Record TV
+https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
+#EXTINF:-1 group-title="📺TV aberta", Reviva TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 
 
@@ -24,10 +39,11 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 
 
 
-tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-quality="720p",Fish TV
-http://45.162.64.114/FISH_TV/index.m3u8
 
-
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="💳TV paga",A&E Latin America Brazil (720p)
+http://170.83.16.50/AeE/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="💳TV paga",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
 
 
 
@@ -105,8 +121,6 @@ https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 group-title="🎬Telecine", Cine Trianon TV
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", EreNews
 https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", Mega Cine TV
@@ -119,27 +133,21 @@ https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="🎬Telecine",AXN (Brazil) (720p)
 http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br" group-title="🎬Telecine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-quality="720p",AXN
-http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="🎬Telecine",Cine Terror BR
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.br@SD" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="🎬Telecine",Classique TV (360p)
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="🎬Telecine",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="GhostTV.br@SD" tvg-logo="https://i.imgur.com/ZVO8GVI.png" 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="🎬Telecine",MyTime Movie Network (Brazil) (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-group-title="🎬Telecine",Pluto TV Bang Bang
+#EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Bang Bang
 https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="🎬Telecine",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="📼Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TV CIDADE NOVA
@@ -182,8 +190,6 @@ https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", Qtal Channel
 https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
-#EXTINF:-1 group-title="📼Variedades", Tv Metropolitana Rio
-https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TV História
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TV Portalweb
@@ -204,8 +210,6 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w255663103.m3u8
 https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", Canal 2 - Tv Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
-#EXTINF:-1 group-title="📼Variedades", BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TV POMPEIA
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TV BANQUETA
@@ -262,17 +266,12 @@ https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", Canal 312
 https://stmv4.voxtvhd.com.br/maikel4996/maikel4996/playlist.m3u8
-#EXTINF:-1 group-title="📼Variedades", geFast
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TVAldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TVLifeAmerica
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 group-title="📼Variedades", MIAMI VICE
 https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
-
-
-
 
 
 
@@ -291,10 +290,10 @@ https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="🪪Investigação & Arquivos", NATURE TIME
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="🪪Investigação & Arquivos", TV NND
-https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 #EXTINF:-1 group-title="🪪Investigação & Arquivos", RS TV
 https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 #EXTINF:-1 group-title="🪪Investigação & Arquivos", TV Atividade
@@ -314,127 +313,62 @@ http://45.177.114.114/HISTORY_2/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="PlutoTVCozinha.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Cozinha
 https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVViagens.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png" group-title="🪐PlutoTV",Pluto TV Viagens
 https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Series Comedia
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVViagens.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png" group-title="🪐PlutoTV",Pluto TV Viagens
-https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
-
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="🪐PlutoTV",TLC Latin America Brazil (720p)
 http://79.127.238.228:14433
-
-#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Series Comedia
-https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-
-group-title="🪐PlutoTV",Pluto TV Series Comedia
-https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralBrasil.br" 
-
-#EXTINF:-1 tvg-id="🪐PlutoTV",PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png"
-
 #EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png" group-title="🪐PlutoTV",Pluto TV Cine Classicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="🪐PlutoTV",Pluto TV Cine Comedia (United States) BR
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Cine Comedia Romantica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Cine Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Cine Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="🪐PlutoTV",Pluto TV Cine Familia
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" group-title="🪐PlutoTV",Pluto TV Cine Inspiracao
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="🪐PlutoTV",Pluto TV Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Ficcao Cientifica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Filmes Acao
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us@BR" tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Filmes Aventura
 https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="🪐PlutoTV",Pluto TV Filmes de Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png" group-title="🪐PlutoTV",Pluto TV Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVNetmovies.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Netmovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Terror Trash
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVRetro.us@BR" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="🪐PlutoTV",Pluto TV Retro
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="🪐PlutoTV",Pluto TV Aliens
 https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVAnimais.us@BR" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Animais
 https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVInvestigacao.us@BR" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="🪐PlutoTV",Pluto TV Investigacao
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVPolicial.us@BR" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Policial
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVCozinha.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Cozinha
-https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-group-title="🤪Pegadinhas" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-quality="480p",Comedy Central Brasil
+#EXTINF:-1 tvg-id="ComedyCentralBrasil.br" group-title="🤪Pegadinhas" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-quality="480p",Comedy Central Brasil
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 group-title="🤪Pegadinhas", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
@@ -442,6 +376,9 @@ https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🤪Pegadinhas", FailArmy
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="✈️paisagens", Tv Web Sul Bahia
@@ -452,14 +389,11 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="✈️Viagem" tvg-logo="https://i.imgur.com/I6pKoBd.png" tvg-quality="720p",TV Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
-
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="✈️Viagem" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-quality="720p",Travel Box Brazil
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
-
-
-
 
 
 
@@ -471,12 +405,8 @@ https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", COMBATV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
-#EXTINF:-1 group-title="🫤TV Livre", Tv Mais Brasil
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", Tv Interior
 https://live.tvinterior.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="🫤TV Livre", Nova Barreiros Web
-https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", Web Tv RMB
 https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
 #EXTINF:-1 group-title="🫤TV Livre", UMA TV
@@ -495,141 +425,69 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/chunklist_w1082167607.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", TV DA QUEBRADA
 https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
-#EXTINF:-1 group-title="🫤TV Livre", +MaisUm
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RedeNGT" group-title="🫤TV Livre" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-quality="1080p",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-id="TVUFOP.br" group-title="🫤TV Livre" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-quality="1080p",TV UFOP
-https://app.tvufop.com.br/hls/tvufop.m3u8
 
 
 
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" http-referrer="https://awtv.com.br" group-title="🎬Maratonas & Cenas",AWTV (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="CSIMiami.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",CSI: Miami BR
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-
 #EXTINF:-1 tvg-id="DiffrentStrokesArnold.us@Brazil" tvg-logo="https://i.imgur.com/jkmouY3.png" group-title="🎬Maratonas & Cenas",Diff'rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-
 #EXTINF:-1 tvg-id="iCarly.us@BR" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",iCarly (United States)
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-
 #EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us@BR" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png" group-title="🎬Maratonas & Cenas",Jornada nas Estrelas: A Nova Geracao
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
-
 #EXTINF:-1 tvg-id="JornadanasEstrelasDeepSpaceNine.us@BR" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png" group-title="🎬Maratonas & Cenas",Jornada nas Estrelas: Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
-
 #EXTINF:-1 tvg-id="JornadanasEstrelasVoyager.us@BR" tvg-logo="https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png" group-title="🎬Maratonas & Cenas",Jornada nas Estrelas: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
-
 #EXTINF:-1 tvg-id="KenanKel.us@BR" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",Kenan & Kel BR
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
-
 #EXTINF:-1 tvg-id="MacGyver.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",MacGyver (United States)
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-
 #EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="🎬Maratonas & Cenas",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-
-#EXTINF:-1 tvg-id="MTVAreyoutheOne.us@BR" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",MTV Are you the One?
-https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
-
-#EXTINF:-1 tvg-id="MTVComoEx.us@BR" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",MTV Com o Ex
-https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-
-#EXTINF:-1 tvg-id="MTVDating.us@BR" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="🎬Maratonas & Cenas",MTV Dating (United States)
-https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
-
 #EXTINF:-1 tvg-id="NCIS.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",NCIS (United States)
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-
 #EXTINF:-1 tvg-id="Numbers.us@BR" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png" group-title="🎬Maratonas & Cenas",Numbers (United States)
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVNovelas.us@BR" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",Pluto TV Novelas BR
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",Pluto TV Series Acao
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",Pluto TV Series Criminais
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVSeriesDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",Pluto TV Series Drama
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVSeriesNovelescas.us@BR" tvg-logo="https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png" group-title="🎬Maratonas & Cenas",Pluto TV Series Novelescas
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",Pluto TV Series Sci-Fi (United States)
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
-
 #EXTINF:-1 tvg-id="StarTrek.us@BR" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="🎬Maratonas & Cenas",Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
-
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="🎬Maratonas & Cenas",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="🎬Maratonas & Cenas",TV Series (480p)
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="🌶️PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" 
-
-#EXTINF:-1 group-title="🌶️Culinárias",Pluto TV KFOOD
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="🌶️Culinárias",Pluto TV KFOOD
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 #EXTINF:-1 group-title="🌶️Culinárias", RECEITAS FAST
 https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-
 #EXTINF:-1 group-title="🌶️Culinárias", TASTEMADE BRASIL
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 #EXTINF:-1 group-title="🌶️Culinárias", MASTERCHEF BRASIL
 https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
 #EXTINF:-1 group-title="🌶️Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-
-
-
-
 
 
 
@@ -659,17 +517,4 @@ https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:-1 tvg-id="MTVShore.us@BR" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="🎵MTV",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" 
-
-
-
-
-
-
-
-
-
-
-
-
 
