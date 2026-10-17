@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/br.xml.gz"
 
 #EXTINF:-1 group-title="🐎TV faroeste", Western Bound
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
@@ -15,32 +15,32 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🐎TV faroeste", rede brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="ElementalChannel.br" group-title="🐎TV faroeste" tvg-logo="https://i.imgur.com/8upyApg.png",Elemental Channel
-
-
-
-
 #EXTINF:-1 group-title="📺TV aberta", SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", SBT SP
+https://aovivo.maissbt.com/channel_720.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", Record TV
+https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
 
-#EXTINF:-1 tvg-id="CanalRural.br" group-title="📺TV aberta" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-quality="720p",Canal Rural
-http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 group-title="📺TV aberta", Record TV Rio
+https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
+
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
 #EXTINF:-1 tvg-id="FishTV.br" group-title="📺TV aberta" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-quality="720p",Fish TV
 http://45.162.64.114/FISH_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="TVUFOP.br" group-title="Público" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-quality="1080p",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
 
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="TV paga",A&E Latin America Brazil (720p)
+http://170.83.16.50/AeE/index.m3u8
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="TV paga",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
 
 #EXTINF:-1 group-title="🎬Telecine", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
@@ -48,15 +48,8 @@ https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", Darkflix TV
 https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="🎬Telecine", CINE CATÁSTROFE
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
-
 
 #EXTINF:-1 group-title="🎬Telecine", MEGA ONE TV
 https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
@@ -103,15 +96,6 @@ https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", 24 Horas Tv
 https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🎬Telecine", TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 
@@ -123,16 +107,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬Telecine", TVR SUL
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1936833837.m3u8
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🎬Telecine", Runtime Ação
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
@@ -155,15 +129,6 @@ https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
 #EXTINF:-1 group-title="🎬Telecine", Runtime Clásicos
 https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🎬Telecine", CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 
@@ -172,7 +137,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬Telecine", TV Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
 
 #EXTINF:-1 group-title="🎬Telecine", 1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u8
@@ -195,13 +159,89 @@ https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PlusMaisUm.br@HD" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="🎬Telecine",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="🎬Telecine",Adrenalina Pura TV Brazil
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="🎬Telecine",AMC Latin America Brazil (720p)
+http://170.83.49.66:8083/AMCHD/index.m3u8
 
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="🎬Telecine",AXN (Brazil) (720p)
+http://170.83.16.50/AXN/index.m3u8
 
+#EXTINF:-1 tvg-id="CineTerror.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="🎬Telecine",Cine Terror BR
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 
+#EXTINF:-1 tvg-id="ClassiqueTV.br@SD" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="🎬Telecine",Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="🎬Telecine",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 
+#EXTINF:-1 tvg-id="GhostTV.br@SD" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="🎬Telecine",Ghost TV (712p) [Not 24/7]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="🎬Telecine",MyTime Movie Network (Brazil) (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Bang Bang
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png" group-title="🎬Telecine",Pluto TV Cine Classicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="🎬Telecine",Pluto TV Cine Comedia (United States) BR
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Cine Comedia Romantica
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Cine Crime
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="🎬Telecine",Pluto TV Cine Familia
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" group-title="🎬Telecine",Pluto TV Cine Inspiracao
+https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="🎬Telecine",Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Ficcao Cientifica
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Filmes Acao
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us@BR" tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Filmes Aventura
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png" group-title="🎬Telecine",Pluto TV Filmes de Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@BR" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png" group-title="🎬Telecine",Pluto TV Filmes Nacionais
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNetmovies.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Netmovies
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us@BR" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Terror Trash
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="🎬Telecine",Sony Movies (720p)
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="🎬Telecine",Telecine Action (1080p)
+http://46.151.196.223:14326/
 
 #EXTINF:-1 group-title="📼Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
@@ -254,18 +294,13 @@ https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", NOVA BARREIROS WEB TV
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
 
-
 #EXTINF:-1 group-title="📼Variedades", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="📼Variedades", TV Meio 
+#EXTINF:-1 group-title="📼Variedades", TV Meio
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", TV TVR
@@ -300,7 +335,6 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="📼Variedades", Tv Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w255663103.m3u8
@@ -379,7 +413,6 @@ https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", BLITS
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-📼
 
 #EXTINF:-1 group-title="📼Variedades", TV DIGITAL BIRIGUI
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
@@ -399,35 +432,26 @@ https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", FUEL TV
 https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1 group-title="📼Variedades", Iblizz
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", TV itapetinga kids
+#EXTINF:-1 group-title="📼Variedades", TV itapetinga Animation;Kids
 https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Canal 312
 https://stmv4.voxtvhd.com.br/maikel4996/maikel4996/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", geFast 
+#EXTINF:-1 group-title="📼Variedades", geFast
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", TVAldeia 
+#EXTINF:-1 group-title="📼Variedades", TVAldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", TVLifeAmerica 
+#EXTINF:-1 group-title="📼Variedades", TVLifeAmerica
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="PlutoTVRetro.us@BR" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="📼Variedades",Pluto TV Retro
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 
 #EXTINF:-1 group-title="🐫Animais", NZTV
 https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
@@ -441,35 +465,59 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet" group-title="🐫Animais" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ThePetCollective.us@Brazil" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="🐫Animais",The Pet Collective Brazil (720p)
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
-
-
-#EXTINF:-1 group-title="🪪Documentários", NATURE TIME
+#EXTINF:-1 group-title="🪪Investigação & Arquivos", NATURE TIME
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
-#EXTINF:-1 group-title="🪪Documentários", TV NND
+#EXTINF:-1 group-title="🪪Investigação & Arquivos", TV NND
 https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 
-#EXTINF:-1 group-title="🪪Documentários", RS TV
+#EXTINF:-1 group-title="🪪Investigação & Arquivos", RS TV
 https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 
-#EXTINF:-1 group-title="🪪Documentários", TV Atividade 
+#EXTINF:-1 group-title="🪪Investigação & Arquivos", TV Atividade
 https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
 
-#EXTINF:-1 group-title="🪪Documentários", AmazonSat
+#EXTINF:-1 group-title="🪪Investigação & Arquivos", AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 group-title="🪪Documentários", Conectv 
+#EXTINF:-1 group-title="🪪Investigação & Arquivos", Conectv
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
-#EXTINF:-1 tvg-id="History.br" group-title="🪪Documentários" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-quality="720p",History
+#EXTINF:-1 tvg-id="History.br" group-title="🪪Investigação & Arquivos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-quality="720p",History
 http://45.177.114.114/HISTORY/index.m3u8
 
+#EXTINF:-1 tvg-id="DetetivesMedicos.us@BR" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="🪪Investigação & Arquivos",Detetives Medicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="🪪Investigação & Arquivos",History 2 Latin America Brazil (720p)
+http://45.177.114.114/HISTORY_2/index.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="🪪Investigação & Arquivos",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVAnimais.us@BR" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="🪪Investigação & Arquivos",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.us@BR" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="🪪Investigação & Arquivos",Pluto TV Investigacao
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVPolicial.us@BR" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" group-title="🪪Investigação & Arquivos",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCozinha.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="🧘Estilo de Vida",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVViagens.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png" group-title="🧘Estilo de Vida",Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="🧘Estilo de Vida",TLC Latin America Brazil (720p)
+http://79.127.238.228:14433
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="🤪Pegadinhas",Pluto TV Series Comedia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br" group-title="🤪Pegadinhas" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-quality="480p",Comedy Central Brasil
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
@@ -483,37 +531,22 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playli
 #EXTINF:-1 group-title="🤪Pegadinhas", FailArmy
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1 group-title="✈️paisagens", Tv Web Sul Bahia
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
 #EXTINF:-1 group-title="✈️paisagens", Rede Mundo TV
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="Viagem" tvg-logo="https://i.imgur.com/I6pKoBd.png" tvg-quality="720p",TV Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
+
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="Viagem" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-quality="720p",Travel Box Brazil
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🫤TV Livre", Tv Serra
 https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
 
-#EXTINF:-1 group-title="🫤TV Livre", Rede Mais Família 
+#EXTINF:-1 group-title="🫤TV Livre", Rede Mais Família
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", COMBATV
@@ -528,10 +561,10 @@ https://live.tvinterior.com.br/hls/stream.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", Nova Barreiros Web
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
 
-#EXTINF:-1 group-title="🫤TV Livre", Web Tv RMB 
+#EXTINF:-1 group-title="🫤TV Livre", Web Tv RMB
 https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
 
-#EXTINF:-1 group-title="🫤TV Livre", UMA TV 
+#EXTINF:-1 group-title="🫤TV Livre", UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Tv Votuline
@@ -547,7 +580,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Unisul TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Nova Era TV
 https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/chunklist_w1082167607.m3u8
@@ -558,16 +591,15 @@ https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", +MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="RedeNGT" group-title="TV Livre" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-quality="1080p",Rede NGT
+#EXTINF:-1 tvg-id="RedeNGT" group-title="🫤TV Livre" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-quality="1080p",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="🌶️Culinárias",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 
 #EXTINF:-1 group-title="🌶️Culinárias", RECEITAS FAST
 https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
@@ -587,242 +619,134 @@ https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="MTVAreyoutheOne.us@BR" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="🎵MTV",MTV Are you the One?
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 
-#EXTINF:-1 group-title="🛻Automóveis", RACER BRASIL
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="🎵MTV",MTV Biggest Pop BR (1080p)
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 
-#EXTINF:-1 group-title="🛻Automóveis", NASCAR Channel
-https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
+#EXTINF:-1 tvg-id="MTVCatfish.us@BR" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="🎵MTV",MTV Catfish (United States) BR (720p)
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
 
-#EXTINF:-1 group-title="🛻Automóveis", Red Bull TV Motorsport
-https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="🎵MTV",MTV Classic BR (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 
-#EXTINF:-1 group-title="🛻Automóveis", WSN TV do Carro
-https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVComoEx.us@BR" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="🎵MTV",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 
-#EXTINF:-1 group-title="🛻Automóveis", Canal Motor
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-id="MTVDating.us@BR" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="🎵MTV",MTV (United States)
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
 
+#EXTINF:-1 tvg-id="MTVDrag.us@BR" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="🎵MTV",MTV Drag
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
 
+#EXTINF:-1 tvg-id="MTVJovenseMaes.us@BR" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="🎵MTV",MTV Jovens e Maes (720p)
+https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png" group-title="🎵MTV",MTV Pluto TV BR
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 
+#EXTINF:-1 tvg-id="MTVReality.us@BR" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="🎵MTV",MTV Reality (United States) (720p)
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 
+#EXTINF:-1 tvg-id="MTVRocks.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="🎵MTV",MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 
-#EXTINF:-1 group-title="📺GTA VC", MIAMI VICE
-https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVShore.us@BR" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="🎵MTV",MTV Shore
+https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 
 
 
 
-#EXTINF:-1 group-title="🎮Games",  CANAL START
-https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 
-#EXTINF:-1 group-title="🎮Games", Play TV 
-https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="🎮Games", PlayTV.br
-https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" http-referrer="https://awtv.com.br" group-title="Maratonas & Cenas",AWTV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+https://awtv.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="🎮Games", YEEAAH
-https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-id="CSIMiami.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Maratonas & Cenas",CSI: Miami BR
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 
-#EXTINF:-1 group-title="🎮Games", YEEAAH 2
-https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8
+#EXTINF:-1 tvg-id="DiffrentStrokesArnold.us@Brazil" tvg-logo="https://i.imgur.com/jkmouY3.png" group-title="Maratonas & Cenas",Diff'rent Strokes Arnold
+https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 
-#EXTINF:-1 group-title="🎮Games", WEB Canal Blecaute TV
-https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
+#EXTINF:-1 tvg-id="iCarly.us@BR" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Maratonas & Cenas",iCarly (United States)
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 
+#EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us@BR" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png" group-title="Maratonas & Cenas",Jornada nas Estrelas: A Nova Geracao
+https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 
+#EXTINF:-1 tvg-id="JornadanasEstrelasDeepSpaceNine.us@BR" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png" group-title="Maratonas & Cenas",Jornada nas Estrelas: Deep Space Nine
+https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 
+#EXTINF:-1 tvg-id="JornadanasEstrelasVoyager.us@BR" tvg-logo="https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png" group-title="Maratonas & Cenas",Jornada nas Estrelas: Voyager
+https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 
+#EXTINF:-1 tvg-id="KenanKel.us@BR" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Maratonas & Cenas",Kenan & Kel BR
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 
+#EXTINF:-1 tvg-id="MacGyver.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Maratonas & Cenas",MacGyver (United States)
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 
-#EXTINF:-1 group-title="🎎Animes", Anime TV
-https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
+#EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="Maratonas & Cenas",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 
-#EXTINF:-1 group-title="🎎Animes", Loading" 
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVAreyoutheOne.us@BR" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Maratonas & Cenas",MTV Are you the One?
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 
-#EXTINF:-1 tvg-id="Loading.br" group-title="🎎Animes" tvg-logo="https://i.imgur.com/R0aflu1.png" tvg-quality="720p",Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVComoEx.us@BR" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Maratonas & Cenas",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 
-#EXTINF:-1 group-title="🎎Animes", Otaku
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVDating.us@BR" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="Maratonas & Cenas",MTV Dating (United States)
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
 
-#EXTINF:-1 group-title="🎎Animes", geekdot
-https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="NCIS.us@BR" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Maratonas & Cenas",NCIS (United States)
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 
+#EXTINF:-1 tvg-id="Numbers.us@BR" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png" group-title="Maratonas & Cenas",Numbers (United States)
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us@BR" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Maratonas & Cenas",Pluto TV Novelas BR
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Maratonas & Cenas",Pluto TV Series Acao
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Maratonas & Cenas",Pluto TV Series Comedia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us@BR" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Maratonas & Cenas",Pluto TV Series Criminais
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVSeriesDrama.us@BR" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Maratonas & Cenas",Pluto TV Series Drama
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", F.Kids
-https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesNovelescas.us@BR" tvg-logo="https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png" group-title="Maratonas & Cenas",Pluto TV Series Novelescas
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", Kids Mais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us@BR" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Maratonas & Cenas",Pluto TV Series Sci-Fi (United States)
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", Animestation
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="SeriesClassic.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg" group-title="Maratonas & Cenas",Series Classic (720p)
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", Ministério Infantil 
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-id="StarTrek.us@BR" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Maratonas & Cenas",Star Trek
+https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", NBX TV KIDS
-https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Maratonas & Cenas",TNT Novelas Brazil (720p)
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", MR BEAN 2
-https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="🎈Desenhos", RETRÔ CARTOON
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="🎈Desenhos", Nick Toons Brasil
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Jetsons.png" group-title="🎈Desenhos", Os Jetsons
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" tvg-quality="720p",Box Kids TV
-http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-quality="720p",DumDum
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" tvg-quality="480p" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Nickelodeon
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🎶clipes", KPOP TV PLAY
-https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", ZOOM MUSIC
-https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="🎶clipes", MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-
-#EXTINF:-1 group-title="🎶clipes" M20 TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", RETRO MUSIC TELEVISION
-https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", RETRO PLUS TV
-https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", NOW 90S & 00S
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", KRONEHIT TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", vintage TV
-https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", PORTAL FOXMIX
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", TV PARADISE
-https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", TOP TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", Atomic TV
-https://atomic.streamnet.ro/atomictv.m3u8
-
-#EXTINF:-1 group-title="🎶clipes", Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/kronehit.png" group-title="🎶clipes", KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Maratonas & Cenas",TV Series (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Desligue! (2026)" tvg-logo="https://www.dropbox.com/scl/fi/tn01d9mjuaswanjjc72bv/Desligue-2026.png?rlkey=zlouuhl58kntjpdio6mpz8aw0&st=ukcywoqx&dl=1" group-title="Filmes | Suspense", Desligue! (2026)
 https://archive.org/download/desligue.-2026/Desligue.2026.mp4
 
-#EXTINF:-1 tvg-name="Barbarella" tvg-logo="https://www.dropbox.com/scl/fi/nz3rpgz87mndw6pfsojzg/Barbarella.png?rlkey=m8la1cryjtd8k8fk4hgm7wo1s&st=5acqh9cq&dl=1" group-title=1"Filmes | Ficção Científica", Barbarella
+#EXTINF:-1 tvg-name="Barbarella" tvg-logo="https://www.dropbox.com/scl/fi/nz3rpgz87mndw6pfsojzg/Barbarella.png?rlkey=m8la1cryjtd8k8fk4hgm7wo1s&st=5acqh9cq&dl=1" group-title="Filmes | Ficção Científica", Barbarella
 https://ia600905.us.archive.org/7/items/barbarella-dublado/Barbarella%20%28Dublado%29.mp4
-
-#EXTINF:-1 tvg-name="Capitã Marvel 2019" tvg-logo="https://www.dropbox.com/scl/fi/43ku38gyasandchankdte/Capit-Marvel-2019.png?rlkey=fsduxgxlfjym7z1xvp9218ikt&st=lpbxteen&dl=1" group-title="Filmes | Ficção Científica", Capitã Marvel 2019
-tã%20Marvel%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Capitã.Marvel.2019.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.TV-TioKennedy.mp4
-
-
 
 #EXTINF:-1 tvg-name="Uma Escola Muito" tvg-logo="https://www.dropbox.com/scl/fi/omqgpqcihie5sfzfe7qma/Uma-Escola-Muito-Doida-1996.png?rlkey=mw0zhx046i6adu7fhvqvy4j7z&st=0bthy0bp&dl=1" group-title="Filmes | Comedia", Uma Escola Muito
 https://dn711005.ca.archive.org/0/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4
-
-
-
-
-
-https://www.dropbox.com/scl/fi/omqgpqcihie5sfzfe7qma/Uma-Escola-Muito-Doida-1996.png?rlkey=mw0zhx046i6adu7fhvqvy4j7z&st=0bthy0bp&dl=0
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="AXN.br" group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-quality="720p",AXN
 http://170.83.16.50/AXN/index.m3u8
@@ -832,7 +756,6 @@ https://ia801600.us.archive.org/3/items/era-uma-vez-na-floresta/Era%20uma%20Vez%
 
 #EXTINF:-1 group-title="Filmes", Matilda ( 1996)
 https://ia903200.us.archive.org/22/items/matilda-1996-dublagem-mastersound/Matilda%20%281996%29%20-%20Dublagem%20Mastersound.ia.mp4
-
 
 #EXTINF:-1 group-title="Filmes", Punhos. Sangrentos (1989)
 https://ia800702.us.archive.org/1/items/1.-punhos.-sangrentos.-punhos.de.-sangue.-bloodfist.-1989.-web-dl.-1080p.-dual.jhonatan-28/1.Punhos.Sangrentos.%28Punhos.de.Sangue%29.%28Bloodfist%29.%281989%29.WEB-DL.1080p.Dual.jhonatan28.mp4
@@ -864,7 +787,7 @@ https://dn711108.ca.archive.org/0/items/youtube-yAPce-l3K9E/yAPce-l3K9E.mp4
 #EXTINF:-1 group-title="Filmes", Conectado (2008)
 https://dn710908.ca.archive.org/0/items/youtube-cGJXsNoJ9bI/cGJXsNoJ9bI.mp4
 
-#EXTINF:-1 group-title="Filmes", Nenhum a Menos (Not One Less) 1999 
+#EXTINF:-1 group-title="Filmes", Nenhum a Menos (Not One Less) 1999
 https://ia801001.us.archive.org/28/items/nenhum.a.-menos-1999-1080p-2-a-3-s/Nenhum.a.Menos_1999_1080p2A3S.mp4
 
 #EXTINF:-1 group-title="Filmes", A Batalha de Honra do Jet Li
@@ -933,7 +856,6 @@ https://archive.org/download/piratasdocaribenofimdomundo-paixaoflix/Piratas%20do
 #EXTINF:-1 group-title="Filmes", Piratas do Caribe - A Vingança de Salazar
 https://archive.org/download/piratasdocaribeavingancadesalazar-paixaoflix/Piratas%20do%20Caribe%20-%20A%20Vingan%C3%A7a%20de%20Salazar_ready.mp4
 
-
 #EXTINF:-1 group-title="Filmes", Um Amor Para Recorda
 https://archive.org/download/filme-um-amor-para-recordar-dublado-pt-br/Filme%20-%20Um%20amor%20para%20recordar%20%28dublado%20pt-br%29.mp4
 
@@ -945,7 +867,6 @@ https://archive.org/download/eu-te-levo-2017/Eu%20te%20Levo%20%5B60e3695fc567be0
 
 #EXTINF:-1 group-title="Filmes", O Elevador Sem Destino (1983)
 https://archive.org/download/o-elevador-sem-destino-1983/O%20Elevador%20sem%20Destino%20%281983%29.mp4
-
 
 #EXTINF:-1 group-title="Filmes", Justiça Brutal
 https://archive.org/download/justica-brutal-dublado-online-filmes-online-gratis-br/Justi%C3%A7a%20Brutal%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4
@@ -961,7 +882,6 @@ https://archive.org/download/assaltoaobancocentral-police-paixaoflix/Assalto%20a
 
 #EXTINF:-1 group-title="Filmes", Assassinos de Aluguel
 https://archive.org/download/assassinosdealuguel-police-paixaoflix/Assassinos%20de%20Aluguel_ready.mp4
-
 
 #EXTINF:-1 group-title="Filmes", A CASA ASSASSINADA, De Paulo César Saraceni (1971)
 https://archive.org/download/2.-a-casa-assassinada-de-paulo-cesar-saraceni-1971/2.%20A%20CASA%20ASSASSINADA%2C%20de%20Paulo%20C%C3%A9sar%20Saraceni%20%281971%29.mp4
@@ -996,12 +916,6 @@ https://archive.org/download/a-grande-familia-o-filme-2007/A%20Grande%20Fam%C3%A
 #EXTINF:-1 group-title="Filmes", O Grande Truque 2006
 https://archive.org/download/o-grande-truque/O%20Grande%20Truque.mp4
 
-#EXTINF:-1 group-title="Filmes", O Estrondo 1
-https://archive.org/compress/o-estrondo-2-2013/formats=H.264%20IA&file=/o-estrondo-2-2013.zip
-
-#EXTINF:-1 group-title="Filmes", O Estrondo 2
-https://archive.org/compress/o-estrondo-2-2013/formats=MPEG4&file=/o-estrondo-2-2013.zip
-
 #EXTINF:-1 group-title="Filmes", O Resgate De Jessica 1989
 https://ia800407.us.archive.org/29/items/o-resgate-de-jessica-1989-dual-576p-web-dl-rmz-leonardo-nunes/O%20Resgate%20de%20Jessica%20-%201989%20-%20Dual%20576p%20WEB-DL-RMZ-Leonardo%20Nunes.mp4
 
@@ -1010,31 +924,6 @@ https://archive.org/download/morando-com-o-perigo.-1990/Morando%20com%20o%20Peri
 
 #EXTINF:-1 group-title="Filmes", O Auto da Compadecida-01
 https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_1.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Animação", Shiki Oriori O Sabor Da Juventude
-https://archive.org/download/shiki-oriori-o-sabor-da-juventude/Shiki%20Oriori%20O%20Sabor%20da%20Juventude.mp4
-
-
-
-
-
 
 #EXTINF:-1 group-title="Animação", Shiki Oriori O Sabor Da Juventude
 https://archive.org/download/shiki-oriori-o-sabor-da-juventude/Shiki%20Oriori%20O%20Sabor%20da%20Juventude.mp4
@@ -1063,14 +952,11 @@ https://archive.org/download/nakitai-watashi-wa-neko-wo-kaburu-filme-dublado/nak
 #EXTINF:-1 group-title="Animação", genmu senki leda
 https://archive.org/download/genmu-senki-leda-dublado/genmu-senki-leda-dublado.mp4
 
-
-#EXTINF:-1 group-title="Animação", A Lenda De Yobi A Raposa De Cinco 
+#EXTINF:-1 group-title="Animação", A Lenda De Yobi A Raposa De Cinco
 https://archive.org/download/a-lenda-de-yobi-a-raposa-de-cinco-caldas-dublado/A%20lenda%20de%20Yobi%20a%20raposa%20de%20cinco%20caldas%20%28%20dublado%20%29.mp4
 
 #EXTINF:-1 group-title="Animação", A Princesa E O Duende
 https://archive.org/download/a-princesa-e-o-duende-1991/A%20Princesa%20e%20o%20Duende%20%281991%29.mp4
-
-
 
 #EXTINF:-1 group-title="Animação", Yu Gi Oh! O Filme Pirâmide de Luz
 https://dn710206.ca.archive.org/0/items/yu-gi-oh-o-filme-piramide-de-luz-versao-japonesa-dublado/Yu-Gi-Oh%21%20O%20Filme%20-%20Pirâmide%20de%20Luz%20Versão%20Japonesa%20Dublado.ia.mp4
@@ -1078,8 +964,7 @@ https://dn710206.ca.archive.org/0/items/yu-gi-oh-o-filme-piramide-de-luz-versao-
 #EXTINF:-1 group-title="Animação", Desenho Do EDGAR & ELLEN 1ª Temporada - 17 Episódios
 https://archive.org/download/desenho-do-edgar-ellen-1a-temporada-com-17-episodios/Desenho%20do%20EDGAR%20%26%20ELLEN%20-%201ª%20Temporada%20com%2017%20Episódios%20✅.ia.mp4
 
-
-#EXTINF:-1 group-title="Animação", Cyber Team In Akihabara Férias De Verão 
+#EXTINF:-1 group-title="Animação", Cyber Team In Akihabara Férias De Verão
 https://archive.org/download/cyber-team-in-akihabara-ferias-de-verao-dublado/Cyber%20Team%20in%20Akihabara%20F%C3%A9rias%20de%20Ver%C3%A3o%20-%20Dublado.mp4
 
 #EXTINF:-1 group-title="Animação",Sakura Card Captors - Filme 1 - Viagem à Hong Kong
@@ -1088,10 +973,8 @@ https://archive.org/download/cardcaptor-sakura-classico-t1e01-35-filme-1/CardCap
 #EXTINF:-1 group-title="Animação", Sakura Card Captors - Filme 2 - A Carta Selada
 https://archive.org/download/cardcaptor-sakura-classico-t3e47-70-filme-2_202603/CardCaptor%20Sakura%20Cl%C3%A1ssico%20T3E47-70%20%2B%20Filme%202/Sakura%20Card%20Captors%20-%20Filme%202%20-%20A%20Carta%20Selada%20-%20Dublado.mp4
 
-
 #EXTINF:-1 group-title="Animação", A Viagem De Chihiro
 https://ia600507.us.archive.org/17/items/a-viagem-de-chihiro-blu-ray-1080p-tri-audio/A%20Viagem%20de%20Chihiro%20%282003%29%20BluRay%201080p%20Tri%20Áudio.mp4
-
 
 #EXTINF:-1 group-title="Animação", A Festa do Monstro Maluco
 https://archive.org/download/a-festa-do-monstro-maluco-1967-remasterizado/A%20Festa%20do%20Monstro%20Maluco%20%281967%20-%20Remasterizado%29.mp4
@@ -1108,29 +991,6 @@ https://dn721907.ca.archive.org/0/items/nononovo-kitaro-2023/%5BCdA%20%26%20Geki
 #EXTINF:-1 group-title="Animação", Dead Leaves
 https://dn721909.ca.archive.org/0/items/fuckill-e-gregoryluis-09-dead-leaves-movie-bd-1080p-dual-audio-8-fff-951-d/%5BFUCKILL%20e%20gregoryluis09%5D%20Dead%20Leaves%20-%20Movie%20%5BBD%201080p%20Dual-Áudio%5D%20%5B8FFF951D%5D.mp4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="Thumbelina S1E1" tvg-logo="https://www.dropbox.com/scl/fi/86gb22q1oiofeqqp1rak6/Thumbelina.png?rlkey=bk6v3np7jyw27ba1xh1ov6m51&st=t9cnffqc&dl=1" group-title="Séries | Animes",Thumbelina S1E1
 https://archive.org/download/thumbelinadvdbr/THUMBELINA.mp4
 
@@ -1140,303 +1000,897 @@ https://dn710204.ca.archive.org/0/items/thumbelinadvdbr/THUMBELINA2.mp4
 #EXTINF:-1 tvg-name="Thumbelina S1E3" tvg-logo="https://www.dropbox.com/scl/fi/86gb22q1oiofeqqp1rak6/Thumbelina.png?rlkey=bk6v3np7jyw27ba1xh1ov6m51&st=t9cnffqc&dl=1" group-title="Séries | Animes",Thumbelina S1E3
 https://dn710204.ca.archive.org/0/items/thumbelinadvdbr/THUMBELINA3.mp4
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E1" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E1
 https://ia801008.us.archive.org/4/items/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2001%20%5BDVD%20720p%20Dual-Áudio%5D%20%5BBFFC1225%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E2" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E2
 https://ia801008.us.archive.org/4/items/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2002%20%5BDVD%20720p%20Dual-Áudio%5D%20%5B5699DF66%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E3" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E3
 https://ia801008.us.archive.org/4/items/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2003%20%5BDVD%20720p%20Dual-Áudio%5D%20%5B43F7908A%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E4" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E4
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2004%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B86E21025%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E5" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E5
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2005%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFAB64D2A%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E6" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E6
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2006%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BC39C6D58%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E7" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E7
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2007%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5B60BE00%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E8" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E8
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2008%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B800E4F97%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E9" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E9
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2009%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B7AC42FF1%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E10" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E10
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2010%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B51A57388%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E11" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E11
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2011%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5D3F9EAA%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E12" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E12
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2012%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B1DBD4012%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E13" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E13
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2013%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFFB664FE%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E14" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E14
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2014%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BA0AA8627%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E15" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E15
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2015%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B6B2E504E%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E16" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E16
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2016%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BEC3C80E5%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E17" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E17
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2017%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B118C81A3%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E18" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E18
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2018%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B54497B2C%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E19" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E19
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2019%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BA9192235%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E20" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E20
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2020%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B87107494%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E21" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E21
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2021%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BB806F307%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E22" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E22
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2022%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B535D5B46%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E23" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E23
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2023%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BD5995867%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E24" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E24
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2024%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5CAA1A62%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E25" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E25
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2025%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B9B08F9FA%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E26" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E26
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2026%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B849B63BC%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E27" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E27
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2027%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BE26BE83E%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E28" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E28
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2028%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B16F2965D%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E29" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E29
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2029%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B5582BB3B%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E30" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E30
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BAtaraxia%20%26%20Hikarisubs%20e%20Substiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2030%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B3BD1C3BC%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E31" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E31
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2031%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B47B80E8E%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E32" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E32
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2032%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B11F98F47%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E33" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E33
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2033%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B04F64559%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E34" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E34
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2034%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFBE2FCF7%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E35" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E35
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2035%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B8C453854%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E36" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E36
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2036%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B7DDC7417%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E37" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E37
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2037%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B77341964%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E38" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E38
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2038%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B67E4427B%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E39" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E39
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2039%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFC5A96CA%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E40" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E40
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2040%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B8D408093%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E41" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E41
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2041%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B02D705BF%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E42" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E42
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2042%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BA6EB809C%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E43" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E43
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2043%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BC58F7947%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E44" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E44
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2044%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BCB09A404%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E45" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E45
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2045%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B22E3E9BA%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E46" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E46
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2046%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B9282ED98%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E47" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E47
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2047%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B62506183%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E48" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E48
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2048%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5BFD3502E3%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E49" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E49
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2049%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B3B1D9D80%5D.mp4
+
 #EXTINF:-1 tvg-name="Nadja do Amanhã S1E50" tvg-logo="https://www.dropbox.com/scl/fi/7ylo982tmo9krs6a2v0bz/Nadja-do-Amanh.png?rlkey=hjxcwerzsfrbfq46mxlr9urt0&st=som1xmfs&dl=1" group-title="Séries | Animes",Nadja do Amanhã S1E50
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2050%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B2FEE4551%5D.mp4
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="Ikkitousen S1E1" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E1
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2001%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E2" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E2
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2002%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E3" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E3
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2003%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E4" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E4
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2004%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E5" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E5
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2005%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E6" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E6
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2006%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E7" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E7
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2007%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E8" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E8
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2008%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E9" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E9
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2009%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E10" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E10
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2010%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E11" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E11
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2011%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E12" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E12
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2012%20dub.mp4
+
 #EXTINF:-1 tvg-name="Ikkitousen S1E13" tvg-logo="https://www.dropbox.com/scl/fi/egdzm6711lsbanqxqri7r/Ikkitousen.png?rlkey=uq510w6tcefdndu1hkk64xkfo&st=apmjploz&dl=1" group-title="Séries | Animes",Ikkitousen S1E13
 https://archive.org/download/ikkitousen-anjos-guerreiros-dubbr/Ikkitousen%2013%20dub.mp4
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="Galaxy Angel S1E1" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E1
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2001%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E2" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E2
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2002%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E3" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E3
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2003%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E4" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E4
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2004%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E5" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E5
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2005%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E6" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E6
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2006%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E7" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E7
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2007%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E8" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E8
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2008%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E9" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E9
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2009%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E10" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E10
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2010%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E11" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E11
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2011%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E12" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E12
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2012%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E13" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E13
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2013%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E14" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E14
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2014%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E15" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E15
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2015%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E16" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E16
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2016%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E17" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E17
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2017%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E18" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E18
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2018%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E19" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E19
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2019%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E20" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E20
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2020%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E21" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E21
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2021%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E22" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E22
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2022%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E23" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E23
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2023%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E24" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E24
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20%282001%29%20-%2024%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E25" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E25
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20Special%27s%2001%20%282002%29%20-%2025%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
+
 #EXTINF:-1 tvg-name="Galaxy Angel S1E26" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E26
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20Special%27s%2002%20%282002%29%20-%2026%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
 
-
 #EXTINF:-1 tvg-name="Barom One S1E1" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E1
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E01%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E2" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E2
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E02%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E3" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E3
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E03%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E4" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E4
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E04%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E5" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E5
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E05%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E6" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E6
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E06%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E7" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E7
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E07%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E8" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E8
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E08%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E9" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E9
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E09%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E10" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E10
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E10%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E11" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E11
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E11%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E12" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E12
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E12%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
+
 #EXTINF:-1 tvg-name="Barom One S1E13" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E13
 https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E13%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
 
-
-
-
-
-
 #EXTINF:-1 tvg-name="Solty Rei S1E1" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E1
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2001%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E2" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E2
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2002%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E3" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E3
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2003%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E4" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E4
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2004%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E5" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E5
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2005%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E6" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E6
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2006%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E7" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E7
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2007%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E8" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E8
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2008%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E9" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E9
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2009%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E10" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E10
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2010%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E11" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E11
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2011%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E12" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E12
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2012%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E13" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E13
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2013%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E14" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E14
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2014%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E15" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E15
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2015%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E16" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E16
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2016%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E17" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E17
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2017%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E18" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E18
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2018%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E19" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E19
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2019%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E20" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E20
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2020%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E21" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E21
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2021%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E22" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E22
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2022%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E23" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E23
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2023%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E24" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E24
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2024%20%28BD%20Hi10P%201308x720%29.mp4
+
 #EXTINF:-1 tvg-name="Solty Rei S1E25" tvg-logo="https://www.dropbox.com/scl/fi/80dhn2h9rp8fg8z5xnyfb/Solty-Rei.png?rlkey=tuek41i0k63eezidvoqr3ekx3&st=33m5tgs6&dl=1" group-title="Séries | Animes",Solty Rei S1E25
 https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%20Epis%C3%B3dio%20Extra%20%28BD%20Hi10P%201308x720%29.mp4
 
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-name="633dc392e0282400071b0d39" tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Beyblade
+https://tinyurl.com/27gmz4eq
 
+#EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" tvg-name="656f389c3944b60008e5bdab" tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Boruto: Naruto Next Generations
+https://tinyurl.com/2447auso
 
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-name="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Death Note
+https://tinyurl.com/29e4ayjz
 
+#EXTINF:-1 tvg-id="65d9167818036500080e8780" tvg-name="65d9167818036500080e8780" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Hunter x Hunter
+https://tinyurl.com/29m937xp
 
+#EXTINF:-1 tvg-id="66b26681d2d50d00083abe8b" tvg-name="66b26681d2d50d00083abe8b" tvg-logo="https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Inuyasha
+https://tinyurl.com/23lbtf2q
 
+#EXTINF:-1 tvg-id="66c7982f6838ee00085f0d24" tvg-name="66c7982f6838ee00085f0d24" tvg-logo="https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",JoJo’s Bizarre Adventure
+https://tinyurl.com/27tw3gpr
 
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-name="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Naruto
+https://tinyurl.com/2a4ncro7
 
+#EXTINF:-1 tvg-id="64c92f965580090008084968" tvg-name="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Naruto Shippuden
+https://tinyurl.com/28wwew3z
 
+#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-name="624b1c8d4321e200073ee421" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",One Piece
+https://tinyurl.com/2cva4jwv
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-name="5f12136385bccc00070142ed" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Pluto TV Anime
+https://tinyurl.com/25oqn99b
+
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-name="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Pluto TV Anime Ação
+https://tinyurl.com/2d4a6hyo
+
+#EXTINF:-1 tvg-id="687007a8ee4155e89a8f6d67" tvg-name="687007a8ee4155e89a8f6d67" tvg-logo="https://images.pluto.tv/channels/687007a8ee4155e89a8f6d67/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Pokémon
+https://tinyurl.com/2xkygcfb
+
+#EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-name="63988c2750108d00072e2686" tvg-logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Super Onze
+https://tinyurl.com/2b6sejtw
+
+#EXTINF:-1 tvg-id="63988a50be012600070f5db3" tvg-name="63988a50be012600070f5db3" tvg-logo="https://images.pluto.tv/channels/63988a50be012600070f5db3/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🎎Animes",Yu-Gi-Oh
+https://tinyurl.com/297n39f9
+
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-name="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/logo.png?fit=fill&fm=png&h=80&w=280" group-title="😂Comédia",Comedy Central Pluto TV
+https://tinyurl.com/248nsslr
+
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-name="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="😂Comédia",FailArmy
+https://tinyurl.com/2bvgth7s
+
+#EXTINF:-1 tvg-id="69fca7dd2387729708faa32c" tvg-name="69fca7dd2387729708faa32c" tvg-logo="https://images.pluto.tv/channels/69fca7dd2387729708faa32c/logo.png?fit=fill&fm=png&h=80&w=280" group-title="😂Comédia",Mr. Bean
+https://tinyurl.com/23as9k7u
+
+#EXTINF:-1 tvg-id="67802a22a5d8215f99dcee30" tvg-name="67802a22a5d8215f99dcee30" tvg-logo="https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/logo.png?fit=fill&fm=png&h=80&w=280" group-title="😂Comédia",Pegadinhas - Just for Laughs
+https://tinyurl.com/28fkghyu
+
+#EXTINF:-1 tvg-id="69440d0611f6c6384ab78306" tvg-name="69440d0611f6c6384ab78306" tvg-logo="https://images.pluto.tv/channels/69440d0611f6c6384ab78306/logo.png?fit=fill&fm=png&h=80&w=280" group-title="😂Comédia",PORTATV
+https://tinyurl.com/24x4us54
+
+#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-name="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🐾Pets & Animais",The Pet Collective
+https://tinyurl.com/2av2e5cy
+
+#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-name="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🐾Pets & Animais",O Encantador de Cães
+https://tinyurl.com/26g2pn9q
+
+#EXTINF:-1 tvg-id="6474aa984cfc2c0008883a92" tvg-name="6474aa984cfc2c0008883a92" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🐾Pets & Animais",Pluto TV Animais
+https://tinyurl.com/25jups5r
+
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-name="5f1213ba0ecebc00070e170f" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🐾Pets & Animais",Pluto TV Natureza
+https://tinyurl.com/2amwdbmt
+
+#EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="656e2a4b4261ca00083aa99e" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Acumuladores Obsessivos
+https://tinyurl.com/24b9ow3o
+
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-name="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV História
+https://tinyurl.com/2cbcaygd
+
+#EXTINF:-1 tvg-id="64ad7394798def00087b2bfe" tvg-name="64ad7394798def00087b2bfe" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV Negócio Fechado
+https://tinyurl.com/29l6o2rz
+
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-name="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV Turbo
+https://tinyurl.com/29tbh88p
+
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-name="5f32d4d9ec194100070c7449" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV Vida Real
+https://tinyurl.com/2bsgsznf
+
+#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-name="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pronto-socorro: Histórias De Emergência
+https://tinyurl.com/2bd2zvxx
+
+#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-name="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Smithsonian Channel Pluto TV
+https://tinyurl.com/2bjuuz6p
+
+#EXTINF:-1 tvg-id="69fca7fadf0b6d462c0a0ac3" tvg-name="69fca7fadf0b6d462c0a0ac3" tvg-logo="https://images.pluto.tv/channels/69fca7fadf0b6d462c0a0ac3/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Sobrevivi
+https://tinyurl.com/29du7kza
+
+#EXTINF:-1 tvg-id="638df93ae2f2a3000737c168" tvg-name="638df93ae2f2a3000737c168" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Detetives Médicos
+https://tinyurl.com/2bsbzge9
+
+#EXTINF:-1 tvg-id="62b5c5a064163d0007b2efe6" tvg-name="62b5c5a064163d0007b2efe6" tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Mistérios sem Solução
+https://tinyurl.com/23twjrbz
+
+#EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-name="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Os Arquivos do FBI
+https://tinyurl.com/243rveza
+
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-name="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV Investigação
+https://tinyurl.com/235wc64d
+
+#EXTINF:-1 tvg-id="678fdf9e3de7c8cf948e8824" tvg-name="678fdf9e3de7c8cf948e8824" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV Policial
+https://tinyurl.com/269slc6p
+
+#EXTINF:-1 tvg-id="656e2a10954b020008ed167c" tvg-name="656e2a10954b020008ed167c" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Caçadores de Óvnis
+https://tinyurl.com/2ygy65a4
+
+#EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-name="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Estado Paranormal
+https://tinyurl.com/28bcqc24
+
+#EXTINF:-1 tvg-id="6806d65e84f24b70109485fa" tvg-name="6806d65e84f24b70109485fa" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV Aliens
+https://tinyurl.com/2868y55a
+
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-name="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🪪Investigação & Arquivos",Pluto TV Mistérios
+https://tinyurl.com/26phxdvf
+
+#EXTINF:-1 tvg-id="67603668f433320008760af1" tvg-name="67603668f433320008760af1" tvg-logo="https://images.pluto.tv/channels/67603668f433320008760af1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Homeful
+https://tinyurl.com/2yfnjxop
+
+#EXTINF:-1 tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-name="5f1ef23020a5ac0007e5e8ea" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Pluto TV Cozinha
+https://tinyurl.com/27ubgx38
+
+#EXTINF:-1 tvg-id="633ee9ba83c08f00076b60a6" tvg-name="633ee9ba83c08f00076b60a6" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Pluto TV KFOOD
+https://tinyurl.com/2445zj3m
+
+#EXTINF:-1 tvg-id="5f32d432d612e50007e56133" tvg-name="5f32d432d612e50007e56133" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Pluto TV Viagens
+https://tinyurl.com/25mk6m4s
+
+#EXTINF:-1 tvg-id="66a7d0e0cd0d310008448610" tvg-name="66a7d0e0cd0d310008448610" tvg-logo="https://images.pluto.tv/channels/66a7d0e0cd0d310008448610/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Salon Line
+https://tinyurl.com/26ntvo5l
+
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Tastemade
+https://tinyurl.com/2cj88e4a
+
+#EXTINF:-1 tvg-id="68b88821e542386ab0bf5bef" tvg-name="68b88821e542386ab0bf5bef" tvg-logo="https://images.pluto.tv/channels/68b88821e542386ab0bf5bef/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Tastemade Casa
+https://tinyurl.com/26wyotjs
+
+#EXTINF:-1 tvg-id="68b8875777201ec428d9eaa5" tvg-name="68b8875777201ec428d9eaa5" tvg-logo="https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Tastemade Viagem
+https://tinyurl.com/23g5btdu
+
+#EXTINF:-1 tvg-id="6a74c028c1842722eafad356" tvg-name="6a74c028c1842722eafad356" tvg-logo="https://images.pluto.tv/channels/6a74c028c1842722eafad356/logo.png?fit=fill&fm=png&h=80&w=280" group-title="🧘Estilo de Vida",Stingray Cityscapes
+https://tinyurl.com/28suytcv
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Adrenalina Pura TV
+https://tinyurl.com/224j2djg
+
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Filmelier TV
+https://tinyurl.com/2aocckef
+
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Filmes Suspense
+https://tinyurl.com/27hyukp7
+
+#EXTINF:-1 tvg-id="6a281c0302b6c1c00a1fe570" tvg-name="6a281c0302b6c1c00a1fe570" tvg-logo="https://images.pluto.tv/channels/6a281c0302b6c1c00a1fe570/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",MovieSphere by Lionsgate
+https://tinyurl.com/2d2hrowo
+
+#EXTINF:-1 tvg-id="663b9dc7cb3ea10008f1a0ce" tvg-name="663b9dc7cb3ea10008f1a0ce" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Bang Bang
+https://tinyurl.com/2acc8qat
+
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Clássicos
+https://tinyurl.com/23ra6xch
+
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Comédia
+https://tinyurl.com/24t85bhy
+
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Comédia Romântica
+https://tinyurl.com/2cfkx6g6
+
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-name="6479ff764f5ba5000878dfe2" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Crime
+https://tinyurl.com/27l4anfr
+
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Drama
+https://tinyurl.com/24x35gd2
+
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Família
+https://tinyurl.com/2b95fuzj
+
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-name="5fa991b1f09e020007e78626" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Inspiração
+https://tinyurl.com/27ddmd43
+
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Romance
+https://tinyurl.com/27grs6nw
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Sucessos
+https://tinyurl.com/2xqlx6sq
+
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Terror
+https://tinyurl.com/247qqqoq
+
+#EXTINF:-1 tvg-id="6a5520365badf45d3088b8d8" tvg-name="6a5520365badf45d3088b8d8" tvg-logo="https://images.pluto.tv/channels/6a5520365badf45d3088b8d8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Cine Trapalhões
+https://tinyurl.com/29ysbemm
+
+#EXTINF:-1 tvg-id="6a7caf2321d112e4a89fb38b" tvg-name="6a7caf2321d112e4a89fb38b" tvg-logo="https://images.pluto.tv/channels/6a7caf2321d112e4a89fb38b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Criaturas Malditas
+https://tinyurl.com/2a6j9aab
+
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-name="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Ficção Científica
+https://tinyurl.com/27lzfzza
+
+#EXTINF:-1 tvg-id="66c79a4262e5510008ff68a5" tvg-name="66c79a4262e5510008ff68a5" tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Filmes Aventura
+https://tinyurl.com/2xmpmz6e
+
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Filmes Ação
+https://tinyurl.com/28q9de5w
+
+#EXTINF:-1 tvg-id="6806d62369aec5b19cd628c0" tvg-name="6806d62369aec5b19cd628c0" tvg-logo="https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Filmes de Luta
+https://tinyurl.com/2xpbzllb
+
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Filmes Nacionais
+https://tinyurl.com/2ygbq9sg
+
+#EXTINF:-1 tvg-id="663b9de4f999220008230fa8" tvg-name="663b9de4f999220008230fa8" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Netmovies
+https://tinyurl.com/28pe3oyx
+
+#EXTINF:-1 tvg-id="66aa67493a4ad2000806d91b" tvg-name="66aa67493a4ad2000806d91b" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Terror Trash
+https://tinyurl.com/2cf5sbdn
+
+#EXTINF:-1 tvg-id="685daaab9029059b2da9cb9a" tvg-name="685daaab9029059b2da9cb9a" tvg-logo="https://images.pluto.tv/channels/685daaab9029059b2da9cb9a/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Pluto TV Zumbis
+https://tinyurl.com/28k9bh46
+
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-name="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Runtime
+https://tinyurl.com/2ybhl7hy
+
+#EXTINF:-1 tvg-id="6a91ac590c9f5239c28ef0b3" tvg-name="6a91ac590c9f5239c28ef0b3" tvg-logo="https://images.pluto.tv/channels/6a91ac590c9f5239c28ef0b3/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",Sexta-Feira 13
+https://tinyurl.com/27q5z6sh
+
+#EXTINF:-1 tvg-id="698392af0cca0cc3458666ab" tvg-name="698392af0cca0cc3458666ab" tvg-logo="https://images.pluto.tv/channels/698392af0cca0cc3458666ab/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Filmes",AdoroCinema
+https://tinyurl.com/2xlzthk2
+
+#EXTINF:-1 tvg-id="3485" tvg-name="3485" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_en_1920x1080.jpg" group-title="Filmes",Runtime
+https://stream.ads.ottera.tv/cl/261016db98q110n25c739gt4cg/1920x1080_4129052_5_f.m3u8?i=728_6121
+
+#EXTINF:-1 tvg-id="6803" tvg-name="6803" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crime_16x9_1.jpg" group-title="Filmes",Runtime Crime
+https://stream.ads.ottera.tv/cl/261016db98q125h9ac738m18v0/1280x720_3071200_0_f.m3u8?i=728_4864
+
+#EXTINF:-1 tvg-id="12049" tvg-name="12049" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_0.jpg" group-title="Filmes",Moviesphere Brazil
+https://stream.ads.ottera.tv/cl/261016db98q1e5oh8c739nkg70/1920x1080_6046040_3_f.m3u8?i=728_6178
+
+#EXTINF:-1 tvg-id="4676" tvg-name="4676" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_br_action_bg.jpg" group-title="Filmes",Runtime Ação
+https://stream.ads.ottera.tv/cl/261016db98q1jp1gpc73f1j31g/1280x720_3071200_0_f.m3u8?i=728_6128
+
+#EXTINF:-1 tvg-id="3270" tvg-name="3270" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ush_1920x1080_1.jpg" group-title="Filmes",Runtime Español
+https://stream.ads.ottera.tv/cl/261016db98q1gm6crc73atrvp0/1280x720_3071200_0_f.m3u8?i=728_2649
+
+#EXTINF:-1 tvg-id="6801" tvg-name="6801" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_cinespanto_16x9_1.jpg" group-title="Filmes",CinEspanto
+https://stream.ads.ottera.tv/cl/261016db98q21rtm6c73bavi00/1280x720_3071200_0_f.m3u8?i=728_4865
+
+#EXTINF:-1 tvg-id="6805" tvg-name="6805" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9_2.jpg" group-title="Filmes",Runtime Romance
+https://stream.ads.ottera.tv/cl/261016db98q24hnces73ce0m10/1280x720_3071200_0_f.m3u8?i=728_6133
+
+#EXTINF:-1 tvg-id="4678" tvg-name="4678" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/br_comedy_bg.jpg" group-title="Filmes",Runtime Comédia
+https://stream.ads.ottera.tv/cl/261016db98q25t1l1c73ba91j0/1280x720_3071200_0_f.m3u8?i=728_2553
+
+#EXTINF:-1 tvg-id="2968" tvg-name="2968" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_br_1920x1080_0.jpg" group-title="Filmes",Runtime
+https://stream.ads.ottera.tv/cl/261016db98q2f3caps73ev4hq0/1280x720_3071200_0_f.m3u8?i=728_2153
+
+#EXTINF:-1 tvg-id="63da6bcd60bc8f0008a5d364" tvg-name="63da6bcd60bc8f0008a5d364" tvg-logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Baby Shark TV
+https://tinyurl.com/22g8j34n
+
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-name="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Cocoricó
+https://tinyurl.com/28ff6epo
+
+#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="63eba189c111bc0008ff59c5" tvg-logo="https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Moranguinho
+https://tinyurl.com/235z7byu
+
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-name="5f5c216df68f920007888315" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",O Reino Infantil
+https://tinyurl.com/2axtrhqu
+
+#EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="63221bafdc6e110007b50270" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Oggy e as Baratas Tontas
+https://tinyurl.com/26po2rwn
+
+#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-name="5f12141b146d760007934ea7" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Junior
+https://tinyurl.com/2axyhrlv
+
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-name="5f1214a637c6fd00079c652f" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Animation;Kids
+https://tinyurl.com/24hwqhya
+
+#EXTINF:-1 tvg-id="66c8cae7fed35b0008580ec0" tvg-name="66c8cae7fed35b0008580ec0" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Animation;Kids Club
+https://tinyurl.com/22zrf6jk
+
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-name="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Turma da Mônica
+https://tinyurl.com/29yoqo5z
+
+#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-name="63dd5c904e83e700088fb68a" tvg-logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",As Tartarugas Ninja
+https://tinyurl.com/2ajkt2o3
+
+#EXTINF:-1 tvg-id="6759eeb1bd523200083b4f29" tvg-name="6759eeb1bd523200083b4f29" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Avatar: A lenda de Aang
+https://tinyurl.com/2dnh58qf
+
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="62545c0b002f4b0007688b61" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Bob Esponja Calça Quadrada
+https://tinyurl.com/2bwuovsf
+
+#EXTINF:-1 tvg-id="6824ce95f09106f4b18f4114" tvg-name="6824ce95f09106f4b18f4114" tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nick Jr. Club
+https://tinyurl.com/29fp7u8d
+
+#EXTINF:-1 tvg-id="6824ce10c5d53e1351ceb8d1" tvg-name="6824ce10c5d53e1351ceb8d1" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nickelodeon Clássico
+https://tinyurl.com/2238omgx
+
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-name="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nickelodeon Teen
+https://tinyurl.com/2xo8abj3
+
+#EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-name="645951c0e94c38000802d2cb" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nickelodeon Toons
+https://tinyurl.com/26sjmu3v
+
+#EXTINF:-1 tvg-id="63221e41af69b500076f84e7" tvg-name="63221e41af69b500076f84e7" tvg-logo="https://images.pluto.tv/channels/63221e41af69b500076f84e7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Os Padrinhos Mágicos
+https://tinyurl.com/22ln28ns
+
+#EXTINF:-1 tvg-id="69162648d03565d6c8c8df97" tvg-name="69162648d03565d6c8c8df97" tvg-logo="https://images.pluto.tv/channels/69162648d03565d6c8c8df97/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Inspetor Bugiganga
+https://tinyurl.com/25fvya3a
+
+#EXTINF:-1 tvg-id="68b88ae1943f6fb1fb2ad749" tvg-name="68b88ae1943f6fb1fb2ad749" tvg-logo="https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Os Smurfs
+https://tinyurl.com/2addool2
+
+#EXTINF:-1 tvg-id="655e5c4d2c46f3000877a54b" tvg-name="655e5c4d2c46f3000877a54b" tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Desenhos Clássicos
+https://tinyurl.com/243ujw6d
+
+#EXTINF:-1 tvg-id="677d93f37bffa600080795e7" tvg-name="677d93f37bffa600080795e7" tvg-logo="https://images.pluto.tv/channels/677d93f37bffa600080795e7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Popeye
+https://tinyurl.com/2c4x5yj2
+
+#EXTINF:-1 tvg-id="11808" tvg-name="11808" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/uLDVczoJETxKCu1UvzcUeCk5yNN8c-Dm2UuMf7ybPQw.jpg" group-title="Animation;Kids",Toon Goggles em português
+https://stream.ads.ottera.tv/cl/261016db98q1har3as73bsk4s0/1280x720_3071200_0_f.m3u8?i=728_5442
+
+#EXTINF:-1 tvg-id="14530" tvg-name="14530" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/tv_zyn_thumbnail.jpg" group-title="Animation;Kids",TV ZYN
+https://tinyurl.com/27ownwlw
+
+#EXTINF:-1 tvg-id="6807" tvg-name="6807" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_3_0.jpg" group-title="Animation;Kids",Runtime Familia
+https://stream.ads.ottera.tv/cl/261016db98q197hdms738dqbig/1280x720_3071200_0_f.m3u8?i=728_5589
+
+#EXTINF:-1 tvg-id="6815" tvg-name="6815" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg" group-title="Animation;Kids",Runtime Familia
+https://stream.ads.ottera.tv/cl/261016db98q1pam65c739298ug/1280x720_3071200_0_f.m3u8?i=728_6118
+
+#EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-name="666c9c60a7efd40008f552f0" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📰Notícias",BM&C News
+https://tinyurl.com/2d52rmzk
+
+#EXTINF:-1 tvg-id="62310f66d5888f0007534342" tvg-name="62310f66d5888f0007534342" tvg-logo="https://images.pluto.tv/channels/62310f66d5888f0007534342/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📰Notícias",CBS News 24/7
+https://tinyurl.com/27kf78g2
+
+#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-name="619e6614c9d9650007a2b171" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📰Notícias",Euronews Português
+https://tinyurl.com/2yg3rmv7
+
+#EXTINF:-1 tvg-id="6317ba014d4d040007227f72" tvg-name="6317ba014d4d040007227f72" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📰Notícias",Jovem Pan NEWS
+https://tinyurl.com/2c2upucs
+
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-name="6102e04e9ab1db0007a980a1" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📰Notícias",Pluto TV Record News
+https://tinyurl.com/2xqr6fyx
+
+#EXTINF:-1 tvg-id="679a973a97782f0008ff4bb6" tvg-name="679a973a97782f0008ff4bb6" tvg-logo="https://images.pluto.tv/channels/679a973a97782f0008ff4bb6/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📰Notícias",Times Brasil | CNBC
+https://tinyurl.com/286ammqd
+
+#EXTINF:-1 tvg-id="13924" tvg-name="13924" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/QeC3XCHvkfJ5r1cyhW_5wyQ0Hs28MqxgN0gK712Mrug.jpg" group-title="📰Notícias",Milenio Televisión
+https://stream.ads.ottera.tv/cl/261016db98q1snhecs738kacm0/1920x1080_4215200_4_f.m3u8?i=728_6403
+
+#EXTINF:-1 tvg-id="11709" tvg-name="11709" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/record_news_thumbnail.png" group-title="📰Notícias",Record News
+https://stream.ads.ottera.tv/cl/261016db98q1u4c6ms73bbodb0/1280x720_3071200_0_f.m3u8?i=728_5431
+
+#EXTINF:-1 tvg-id="6a565d9022790c74de2e98f6" tvg-name="6a565d9022790c74de2e98f6" tvg-logo="https://images.pluto.tv/channels/6a565d9022790c74de2e98f6/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Amor de Aluguel by Noverama TV
+https://tinyurl.com/2cw2ppgr
+
+#EXTINF:-1 tvg-id="69c716efeac9a2720ebcaaff" tvg-name="69c716efeac9a2720ebcaaff" tvg-logo="https://images.pluto.tv/channels/69c716efeac9a2720ebcaaff/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Grachi
+https://tinyurl.com/23e6qt6n
+
+#EXTINF:-1 tvg-id="6a281d2bd1e6d3ba6b553c7c" tvg-name="6a281d2bd1e6d3ba6b553c7c" tvg-logo="https://images.pluto.tv/channels/6a281d2bd1e6d3ba6b553c7c/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Novelíssima
+https://tinyurl.com/25k7gqs5
+
+#EXTINF:-1 tvg-id="5f512365abe1f50007d3ff56" tvg-name="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Novelas
+https://tinyurl.com/24zuoorc
+
+#EXTINF:-1 tvg-id="681111be5e0764e297fb200e" tvg-name="681111be5e0764e297fb200e" tvg-logo="https://images.pluto.tv/channels/681111be5e0764e297fb200e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Mais MasterChef Brasil
+https://tinyurl.com/2yryjcsj
+
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-name="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",MasterChef
+https://tinyurl.com/2alzhu29
+
+#EXTINF:-1 tvg-id="681110afc188aa63faa147e0" tvg-name="681110afc188aa63faa147e0" tvg-logo="https://images.pluto.tv/channels/681110afc188aa63faa147e0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",MasterChef Brasil Profissionais
+https://tinyurl.com/2bms9w32
+
+#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-name="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Sony One Shark Tank Brasil
+https://tinyurl.com/22kkn4hl
+
+#EXTINF:-1 tvg-id="69fca82395df3283d2b60ef9" tvg-name="69fca82395df3283d2b60ef9" tvg-logo="https://images.pluto.tv/channels/69fca82395df3283d2b60ef9/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Topa ou Não Topa EUA
+https://tinyurl.com/2dl5bjcq
+
+#EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-name="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",A Feiticeira
+https://tinyurl.com/24b73efl
+
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-name="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Diff’rent Strokes Arnold
+https://tinyurl.com/2d5oyvmb
+
+#EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-name="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",MacGyver
+https://tinyurl.com/22db6m8d
+
+#EXTINF:-1 tvg-id="62052d3b4eeb740007fbe125" tvg-name="62052d3b4eeb740007fbe125" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",O Homem que veio do Céu
+https://tinyurl.com/27n85pw7
+
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-name="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Retrô
+https://tinyurl.com/24e74dxy
+
+#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-name="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Tokusato
+https://tinyurl.com/2yjp2ujb
+
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-name="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Comedy Central South Park
+https://tinyurl.com/24r2hu8j
+
+#EXTINF:-1 tvg-id="65df71008b24c80008f04281" tvg-name="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",South Park: Coleção Cartman
+https://tinyurl.com/25xuthfb
+
+#EXTINF:-1 tvg-id="65df704366eec8000898e32f" tvg-name="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",South Park: Coleção Kenny
+https://tinyurl.com/27mct2r8
+
+#EXTINF:-1 tvg-id="65df713dec9fda0008b7a81d" tvg-name="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",South Park: Coleção Kyle
+https://tinyurl.com/29lz7d8v
+
+#EXTINF:-1 tvg-id="65df70b0f7f0af0008c3b316" tvg-name="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",South Park: Coleção Stan
+https://tinyurl.com/259remhd
+
+#EXTINF:-1 tvg-id="69162ad79505d0f3b1ebf07d" tvg-name="69162ad79505d0f3b1ebf07d" tvg-logo="https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Jornada nas Estrelas - A Nova Geração
+https://tinyurl.com/27796jm5
+
+#EXTINF:-1 tvg-id="69162af591700f4c4c135c95" tvg-name="69162af591700f4c4c135c95" tvg-logo="https://images.pluto.tv/channels/69162af591700f4c4c135c95/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Jornada nas Estrelas - Deep Space Nine
+https://tinyurl.com/26jn4pyt
+
+#EXTINF:-1 tvg-id="69162b1ef189e235142b17ab" tvg-name="69162b1ef189e235142b17ab" tvg-logo="https://images.pluto.tv/channels/69162b1ef189e235142b17ab/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Jornada nas Estrelas - Voyager
+https://tinyurl.com/29d9thak
+
+#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-name="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Star Trek
+https://tinyurl.com/2cutsuqg
+
+#EXTINF:-1 tvg-id="67e59a6557487a8b7fe73e23" tvg-name="67e59a6557487a8b7fe73e23" tvg-logo="https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",A Caçadora de Relíquias
+https://tinyurl.com/23evzsrz
+
+#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-name="5ff768b6a4c8b80008498610" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",BET Pluto TV
+https://tinyurl.com/23w3etrv
+
+#EXTINF:-1 tvg-id="69fcc8cfb83300b380051794" tvg-name="69fcc8cfb83300b380051794" tvg-logo="https://images.pluto.tv/channels/69fcc8cfb83300b380051794/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Blue Bloods
+https://tinyurl.com/2yxbuumd
+
+#EXTINF:-1 tvg-id="67f9602ee173fa5664fafae8" tvg-name="67f9602ee173fa5664fafae8" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Charmed: Jovens Bruxas
+https://tinyurl.com/29hjcy2f
+
+#EXTINF:-1 tvg-id="64e501eec630a900088ed0f8" tvg-name="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Clube do Terror
+https://tinyurl.com/23k3b2oc
+
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",CSI: Miami
+https://tinyurl.com/23xqnqbz
+
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-name="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",NCIS
+https://tinyurl.com/28lx7atx
+
+#EXTINF:-1 tvg-id="67f960c5441853fe50e7afc1" tvg-name="67f960c5441853fe50e7afc1" tvg-logo="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Numbers
+https://tinyurl.com/23b38756
+
+#EXTINF:-1 tvg-id="6a5520691a435d3dfcda8340" tvg-name="6a5520691a435d3dfcda8340" tvg-logo="https://images.pluto.tv/channels/6a5520691a435d3dfcda8340/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",O Rei do Bairro
+https://tinyurl.com/2apaas7h
+
+#EXTINF:-1 tvg-id="6474ab1da51cb80008bfb5f4" tvg-name="6474ab1da51cb80008bfb5f4" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Séries Ação
+https://tinyurl.com/2buy8ns6
+
+#EXTINF:-1 tvg-id="655e5bc94261ca000810cb17" tvg-name="655e5bc94261ca000810cb17" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Séries Comédia
+https://tinyurl.com/2a3swaf9
+
+#EXTINF:-1 tvg-id="6474ab5cdc7a760008745008" tvg-name="6474ab5cdc7a760008745008" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Séries Criminais
+https://tinyurl.com/296xd2yc
+
+#EXTINF:-1 tvg-id="65f060d84e01740008d7421f" tvg-name="65f060d84e01740008d7421f" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Séries Drama
+https://tinyurl.com/2xquo5z4
+
+#EXTINF:-1 tvg-id="69c71615a8ef5d7f33e7322e" tvg-name="69c71615a8ef5d7f33e7322e" tvg-logo="https://images.pluto.tv/channels/69c71615a8ef5d7f33e7322e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Séries Família
+https://tinyurl.com/23rcrzxk
+
+#EXTINF:-1 tvg-id="691627e4a29a6123e400b3e0" tvg-name="691627e4a29a6123e400b3e0" tvg-logo="https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Séries Novelescas
+https://tinyurl.com/2dkdjjov
+
+#EXTINF:-1 tvg-id="63d2ba2f60bc8f0008981a0e" tvg-name="63d2ba2f60bc8f0008981a0e" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Pluto TV Séries Sci-Fi
+https://tinyurl.com/272bgqqj
+
+#EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-name="64ff2d8c6625510008c5a512" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Rookie Blue
+https://tinyurl.com/24han2yz
+
+#EXTINF:-1 tvg-id="678aa104680721c77c506746" tvg-name="678aa104680721c77c506746" tvg-logo="https://images.pluto.tv/channels/678aa104680721c77c506746/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",The Walking Dead by AMC
+https://tinyurl.com/247y5l7u
+
+#EXTINF:-1 tvg-id="66b3af48d2d50d00083d6936" tvg-name="66b3af48d2d50d00083d6936" tvg-logo="https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Maratonas & Cenas",Z Nation
+https://tinyurl.com/249kyomr
+
+#EXTINF:-1 tvg-id="12972" tvg-name="12972" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/c5320c0e-angermanagement_runtime_channeltitle_1920x1080.jpg" group-title="Maratonas & Cenas",Tratamento de Choque
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15612" tvg-name="15612" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/Hnl6MS4-zTgHgX87Dr_Dbv7Qdjoq2dYBqxMxTvgKIko.jpg" group-title="Maratonas & Cenas",Nitro
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=823&language=pt-br&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
+
+#EXTINF:-1 tvg-id="6582" tvg-name="6582" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="Maratonas & Cenas",Runtime Series
+https://stream.ads.ottera.tv/cl/261016db98q1rp1gpc73f1j3bg/1280x720_3071200_0_f.m3u8?i=728_6132
+
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-name="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📺Canais Gerais",Pluto TV Canal UOL
+https://tinyurl.com/2cghve98
+
+#EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-name="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📺Canais Gerais",TV Cultura
+https://tinyurl.com/2clmnl62
+
+#EXTINF:-1 tvg-id="13920" tvg-name="13920" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/psl9-8liWInQ54YdieWyOXhQqJTJ3BSwQN2WKhTA4sc.jpg" group-title="📺Canais Gerais",C4 en Alerta
+https://stream.ads.ottera.tv/cl/261016db98q1a5tb1s738mbb6g/1280x720_3071200_0_f.m3u8?i=728_6404
+
+#EXTINF:-1 tvg-id="20390" tvg-name="20390" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/LNKEeanyFUfndPOSDNDss7F3vyt9gsrHTQVAYw3K8_Q.jpg" group-title="📺Canais Gerais",Xataka
+https://stream.ads.ottera.tv/cl/261016db98q190m4ls73fp2mn0/1280x720_3071200_0_f.m3u8?i=728_14075
+
+#EXTINF:-1 tvg-id="16048" tvg-name="16048" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_masterchefbrasil_logo_1920x1080_-_suraj_s.jpg" group-title="📺Canais Gerais",Masterchef Brazil
+https://tinyurl.com/2y6ul6nk
+
+#EXTINF:-1 tvg-id="13922" tvg-name="13922" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/iLulYrBX1GWzxXXlZ4Mr1e5qi8qXgkmd0FqEK01LHdo.jpg" group-title="📺Canais Gerais",Canal 6 CDMX
+https://stream.ads.ottera.tv/cl/261016db98q2ebsi5c73ebh6pg/1920x1080_4215200_4_f.m3u8?i=728_6405
 
