@@ -7,22 +7,6 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🐎TV faroeste", GRJNGO 2
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="🐎TV faroeste", rede brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-
-
-
-#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="🌍Globo",Globoplay Novelas (1080p)
-http://170.82.202.31/Viva/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="🌍Globo",TV Globo Sao Paulo (720p)
-http://170.84.165.204/Globo_HD/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="📺TV aberta", SBT Interior
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 group-title="📺TV aberta", Record TV
@@ -32,23 +16,10 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="📺TV aberta", TV Cultura
 #EXTINF:-1 group-title="📺TV aberta", Reviva TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="💳TV paga",A&E Latin America Brazil (720p)
 http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="💳TV paga",Lifetime Latin America Brazil (720p)
 http://170.83.16.50/LIFETIME/index.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="🎬Telecine", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", Darkflix TV
@@ -143,11 +114,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="🎬Telecine",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="📼Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TV CIDADE NOVA
@@ -252,10 +218,6 @@ https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-#EXTINF:-1 group-title="📼Variedades", Nossa TV
-https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
-#EXTINF:-1 group-title="📼Variedades", ORTVWEB
-https://tv.ortv.com.br/hls/stream.m3u8
 #EXTINF:-1 group-title="📼Variedades", TV Aberta
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", FUEL TV
@@ -272,11 +234,6 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 group-title="📼Variedades", MIAMI VICE
 https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="🐫Animais", NZTV
 https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
 #EXTINF:-1 group-title="🐫Animais",  WILDEARTH
@@ -287,11 +244,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Brazil" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="🐫Animais",The Pet Collective Brazil (720p)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="🪪Investigação & Arquivos", NATURE TIME
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="🪪Investigação & Arquivos", RS TV
@@ -308,11 +260,6 @@ http://45.177.114.114/HISTORY/index.m3u8
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="🪪Investigação & Arquivos",History 2 Latin America Brazil (720p)
 http://45.177.114.114/HISTORY_2/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="PlutoTVCozinha.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Cozinha
 https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
 #EXTINF:-1 tvg-id="PlutoTVViagens.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png" group-title="🪐PlutoTV",Pluto TV Viagens
@@ -363,11 +310,6 @@ https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPolicial.us@BR" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Policial
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br" group-title="🤪Pegadinhas" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-quality="480p",Comedy Central Brasil
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 group-title="🤪Pegadinhas", FORA TÉDIO TV
@@ -376,29 +318,14 @@ https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🤪Pegadinhas", FailArmy
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="✈️paisagens", Tv Web Sul Bahia
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 #EXTINF:-1 group-title="✈️paisagens", Rede Mundo TV
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="✈️Viagem" tvg-logo="https://i.imgur.com/I6pKoBd.png" tvg-quality="720p",TV Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="✈️Viagem" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-quality="720p",Travel Box Brazil
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="🫤TV Livre", Tv Serra
 https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", Rede Mais Família
@@ -415,8 +342,6 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", TVUFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:-1 group-title="🫤TV Livre", TVZoom
-https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", TVCOM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", Unisul TV
@@ -427,11 +352,6 @@ https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/chunklist_w10821676
 https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeNGT" group-title="🫤TV Livre" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-quality="1080p",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" http-referrer="https://awtv.com.br" group-title="🎬Maratonas & Cenas",AWTV (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
@@ -473,11 +393,6 @@ https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="🎬Maratonas & Cenas",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="🌶️Culinárias",Pluto TV KFOOD
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 #EXTINF:-1 group-title="🌶️Culinárias", RECEITAS FAST
@@ -488,11 +403,6 @@ https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlis
 https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
 #EXTINF:-1 group-title="🌶️Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="MTVAreyoutheOne.us@BR" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="🎵MTV",MTV Are you the One?
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="🎵MTV",MTV Biggest Pop BR (1080p)
@@ -517,4 +427,3 @@ https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:-1 tvg-id="MTVShore.us@BR" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="🎵MTV",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
-
